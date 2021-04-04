@@ -1,6 +1,6 @@
-SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
+SN,Description,Name,Amount,taxes,total,id,remark1,remark2,remark3
 1,"Eldon Base for stackable storage shelf, platinum",Muhammed MacIntyre,3,-213.25,38.94,35,Nunavut,Storage & Organization,0.8
-2,1.7 Cubic Foot Compact "Cube" Office Refrigerators,Barry French,293,457.81,208.16,68.02,Nunavut,Appliances,0.58
+2,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Barry French,293,457.81,208.16,68.02,Nunavut,Appliances,0.58
 3,"Cardinal Slant-D® Ring Binder, Heavy Gauge Vinyl",Barry French,293,46.71,8.69,2.99,Nunavut,Binders and Binder Accessories,0.39
 4,R380,Clay Rozendal,483,1198.97,195.99,3.99,Nunavut,Telephones and Communication,0.58
 5,Holmes HEPA Air Purifier,Carlos Soltero,515,30.94,21.78,5.94,Nunavut,Appliances,0.5
@@ -13,9 +13,9 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 12,Advantus Map Pennant Flags and Round Head Tacks,Neola Schneider,807,-14.33,3.95,2,Nunavut,Rubber Bands,0.53
 13,Holmes HEPA Air Purifier,Carlos Daly,868,134.72,21.78,5.94,Nunavut,Appliances,0.5
 14,"DS/HD IBM Formatted Diskettes, 200/Pack - Staples",Carlos Daly,868,114.46,47.98,3.61,Nunavut,Computer Peripherals,0.71
-15,Wilson Jones 1" Hanging DublLock® Ring Binders,Claudia Miner,933,-4.72,5.28,2.99,Nunavut,Binders and Binder Accessories,0.37
+15,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Claudia Miner,933,-4.72,5.28,2.99,Nunavut,Binders and Binder Accessories,0.37
 16,Ultra Commercial Grade Dual Valve Door Closer,Neola Schneider,995,782.91,39.89,3.04,Nunavut,Office Furnishings,0.53
-17,#10-4 1/8" x 9 1/2" Premium Diagonal Seam Envelopes,Allen Rosenblatt,998,93.8,15.74,1.39,Nunavut,Envelopes,0.4
+17,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",Allen Rosenblatt,998,93.8,15.74,1.39,Nunavut,Envelopes,0.4
 18,Hon 4-Shelf Metal Bookcases,Sylvia Foulston,1154,440.72,100.98,26.22,Nunavut,Bookcases,0.6
 19,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Sylvia Foulston,1154,-481.04,71.37,69,Nunavut,Tables,0.68
 20,g520,Jim Radford,1344,-11.68,65.99,5.26,Nunavut,Telephones and Communication,0.59
@@ -94,7 +94,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 93,"Staples Wirebound Steno Books, 6"" x 9"", 12/Pack",Delfina Latchford,10022,-3.88,10.14,2.27,Northwest Territories,Paper,0.36
 94,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Don Jones,10437,-191.22,15.99,13.18,Northwest Territories,Binders and Binder Accessories,0.37
 95,Bevis Boat-Shaped Conference Table,Doug Bickford,10499,31.21,262.11,62.74,Northwest Territories,Tables,0.75
-96,Linden® 12" Wall Clock With Oak Frame,Doug Bickford,10535,-44.14,33.98,19.99,Northwest Territories,Office Furnishings,0.55
+96,"Linden® 12"" Wall Clock With Oak Frame",Doug Bickford,10535,-44.14,33.98,19.99,Northwest Territories,Office Furnishings,0.55
 97,Newell 326,Doug Bickford,10535,-0.79,1.76,0.7,Northwest Territories,Pens & Art Supplies,0.56
 98,Prismacolor Color Pencil Set,Jamie Kunitz,10789,76.42,19.84,4.1,Northwest Territories,Pens & Art Supplies,0.44
 99,Xerox Blank Computer Paper,Anthony Johnson,10791,93.36,19.98,5.77,Northwest Territories,Paper,0.38
@@ -182,7 +182,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 181,GBC Binding covers,Alan Barnes,19686,12.76,12.95,4.98,Northwest Territories,Binders and Binder Accessories,0.4
 182,Newell 323,Nicole Hansen,20007,-46.25,1.68,1.57,Northwest Territories,Pens & Art Supplies,0.59
 183,"Global Stack Chair without Arms, Black",Cari Schnelling,20071,-190.41,25.98,14.36,Northwest Territories,Chairs & Chairmats,0.6
-184,Speediset Carbonless Redi-Letter® 7" x 8 1/2",Chad Cunningham,20160,174.89,10.31,1.79,Northwest Territories,Paper,0.38
+184,"Speediset Carbonless Redi-Letter® 7"" x 8 1/2""",Chad Cunningham,20160,174.89,10.31,1.79,Northwest Territories,Paper,0.38
 185,GBC Recycled Regency Composition Covers,Bryan Mills,20263,72.51,59.78,10.29,Northwest Territories,Binders and Binder Accessories,0.39
 186,Accessory29,Bryan Mills,20263,-76.86,20.99,1.25,Northwest Territories,Telephones and Communication,0.83
 187,Newell 323,Adrian Hane,21285,-30.54,1.68,1.57,Northwest Territories,Pens & Art Supplies,0.59
@@ -190,12 +190,12 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 189,Polycom ViaVideo™ Desktop Video Communications Unit,Rick Reed,21383,7416.43,574.74,24.49,Northwest Territories,Office Machines,0.37
 190,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",Heather Kirkland,21607,54.92,36.55,13.89,Northwest Territories,Pens & Art Supplies,0.41
 191,Accessory24,Fred Wasserman,21636,366.51,55.99,3.3,Northwest Territories,Telephones and Communication,0.59
-192,Howard Miller 13-3/4" Diameter Brushed Chrome Round Wall Clock,Becky Castell,21889,135.79,51.75,19.99,Northwest Territories,Office Furnishings,0.55
+192,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Becky Castell,21889,135.79,51.75,19.99,Northwest Territories,Office Furnishings,0.55
 193,Recycled Steel Personal File for Standard File Folders,Becky Castell,21889,103.38,55.29,5.08,Northwest Territories,Storage & Organization,0.59
 194,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Beth Thompson,22151,-79.72,9.65,6.22,Northwest Territories,Office Furnishings,0.55
 195,Accessory39,Claudia Miner,22342,-92.96,20.99,3.3,Northwest Territories,Telephones and Communication,0.81
 196,Bell Sonecor JB700 Caller ID,Jack Lebron,22469,-162.37,7.99,5.03,Northwest Territories,Telephones and Communication,0.6
-197,#10- 4 1/8" x 9 1/2" Security-Tint Envelopes,Alan Barnes,22501,7.27,7.64,1.39,Northwest Territories,Envelopes,0.36
+197,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Alan Barnes,22501,7.27,7.64,1.39,Northwest Territories,Envelopes,0.36
 198,GBC Standard Plastic Binding Systems Combs,Carlos Soltero,22532,-11.8,8.85,5.6,Northwest Territories,Binders and Binder Accessories,0.36
 199,Xerox 1930,Clay Rozendal,23264,-50.82,6.48,6.81,Northwest Territories,Paper,0.36
 200,Avery 474,Clay Rozendal,23264,17.99,2.88,0.99,Northwest Territories,Labels,0.36
@@ -216,7 +216,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 215,Lexmark Z25 Color Inkjet Printer,Eugene Barchas,24515,121.48,80.97,33.6,Northwest Territories,Office Machines,0.37
 216,Hon Multipurpose Stacking Arm Chairs,Sylvia Foulston,24743,176.67,216.6,64.2,Northwest Territories,Chairs & Chairmats,0.59
 217,Hon Olson Stacker Stools,Sylvia Foulston,24743,753.61,140.81,24.49,Northwest Territories,Chairs & Chairmats,0.57
-218,Executive Impressions 14" Two-Color Numerals Wall Clock,Carl Ludwig,24871,75.3,22.72,8.99,Northwest Territories,Office Furnishings,0.44
+218,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Carl Ludwig,24871,75.3,22.72,8.99,Northwest Territories,Office Furnishings,0.44
 219,12-1/2 Diameter Round Wall Clock,Julia West,25318,-65.18,19.98,10.49,Northwest Territories,Office Furnishings,0.49
 220,Epson DFX5000+ Dot Matrix Printer,Don Jones,25377,-3755.03,1500.97,29.7,Northwest Territories,Office Machines,0.57
 221,"Fellowes Basic 104-Key Keyboard, Platinum",Mike Pelletier,25634,28.99,20.95,4,Northwest Territories,Computer Peripherals,0.6
@@ -238,7 +238,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 237,"Imation 3.5 IBM Diskettes, 10/Box",Sylvia Foulston,26567,-100.51,8.46,8.99,Northwest Territories,Computer Peripherals,0.79
 238,"GE 4 Foot Flourescent Tube, 40 Watt",Sylvia Foulston,26567,-17.75,14.98,8.99,Northwest Territories,Office Furnishings,0.39
 239,300 Series Non-Flip,Sylvia Foulston,26567,1374.95,155.99,8.08,Northwest Territories,Telephones and Communication,0.6
-240,Executive Impressions 13" Chairman Wall Clock,Charlotte Melton,26854,-12.95,25.38,8.99,Northwest Territories,Office Furnishings,0.5
+240,"Executive Impressions 13"" Chairman Wall Clock",Charlotte Melton,26854,-12.95,25.38,8.99,Northwest Territories,Office Furnishings,0.5
 241,Micro Innovations 104 Keyboard,Barry French,27109,-154.66,10.97,6.5,Northwest Territories,Computer Peripherals,0.64
 242,US Robotics 56K V.92 External Faxmodem,Heather Kirkland,27111,-127.56,99.99,19.99,Northwest Territories,Computer Peripherals,0.52
 243,Fellowes Staxonsteel® Drawer Files,Heather Kirkland,27111,282.18,193.17,19.99,Northwest Territories,Storage & Organization,0.71
@@ -257,7 +257,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 256,Xerox 1897,Charles McCrossin,28003,-95.92,4.98,6.07,Northwest Territories,Paper,0.36
 257,Poly Designer Cover & Back,Don Miller,28035,89.56,18.99,5.23,Northwest Territories,Binders and Binder Accessories,0.37
 258,Bionaire Personal Warm Mist Humidifier/Vaporizer,Jeremy Lonsdale,28135,520.69,46.89,5.1,Northwest Territories,Appliances,0.46
-259,Acme® 8" Straight Scissors,Jeremy Lonsdale,28135,38.23,12.98,3.14,Northwest Territories,"Scissors, Rulers and Trimmers",0.6
+259,"Acme® 8"" Straight Scissors",Jeremy Lonsdale,28135,38.23,12.98,3.14,Northwest Territories,"Scissors, Rulers and Trimmers",0.6
 260,Heavy-Duty E-Z-D® Binders,Grant Carroll,28165,-12.8,10.91,2.99,Northwest Territories,Binders and Binder Accessories,0.38
 261,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Carl Ludwig,28289,-46.03,4.98,4.75,Northwest Territories,Paper,0.36
 262,Deluxe Rollaway Locking File with Drawer,Carlos Daly,28486,-517.47,415.88,11.37,Northwest Territories,Storage & Organization,0.57
@@ -274,7 +274,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 273,Avery 481,Brad Eason,29861,5.58,3.08,0.99,Northwest Territories,Labels,0.37
 274,Sharp AL-1530CS Digital Copier,Charles McCrossin,30658,6907.61,499.99,24.49,Northwest Territories,Copiers and Fax,0.36
 275,"SAFCO Commercial Wire Shelving, Black",Charles McCrossin,30658,-942.5,138.14,35,Northwest Territories,Storage & Organization,
-276,Avery Trapezoid Extra Heavy Duty 4" Binders,Charles McCrossin,30947,261.24,41.94,2.99,Northwest Territories,Binders and Binder Accessories,0.35
+276,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Charles McCrossin,30947,261.24,41.94,2.99,Northwest Territories,Binders and Binder Accessories,0.35
 277,Self-Adhesive Address Labels for Typewriters by Universal,Charles McCrossin,30947,183.53,7.31,0.49,Northwest Territories,Labels,0.38
 278,StarTAC Series,Bryan Mills,31077,470.83,65.99,3.9,Northwest Territories,Telephones and Communication,0.55
 279,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Monica Federle,31111,-29.02,7.64,5.83,Northwest Territories,Paper,0.36
@@ -362,7 +362,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 361,"Global Deluxe Stacking Chair, Gray",Hunter Glantz,40132,149.83,50.98,14.19,Northwest Territories,Chairs & Chairmats,0.56
 362,Bevis 36 x 72 Conference Tables,Hunter Glantz,40132,-219.38,124.49,51.94,Northwest Territories,Tables,0.63
 363,"Avery Flip-Chart Easel Binder, Black",Hunter Glantz,40132,-86.2,22.38,15.1,Northwest Territories,Binders and Binder Accessories,0.38
-364,Howard Miller 16" Diameter Gallery Wall Clock,Julia West,40160,202.87,63.94,14.48,Northwest Territories,Office Furnishings,0.46
+364,"Howard Miller 16"" Diameter Gallery Wall Clock",Julia West,40160,202.87,63.94,14.48,Northwest Territories,Office Furnishings,0.46
 365,"ACCOHIDE® 3-Ring Binder, Blue, 1""",Carlos Daly,40518,-12.16,4.13,5.04,Northwest Territories,Binders and Binder Accessories,0.38
 366,"Global High-Back Leather Tilter, Burgundy",Barry French,40804,-1775.83,122.99,70.2,Northwest Territories,Chairs & Chairmats,0.74
 367,"Wilson Jones Hanging View Binder, White, 1""",Susan Vittorini,40902,-48.88,7.1,6.05,Northwest Territories,Binders and Binder Accessories,0.39
@@ -398,10 +398,10 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 397,Okidata ML390 Turbo Dot Matrix Printers,Dorothy Wardle,44519,5386.32,442.14,14.7,Northwest Territories,Office Machines,0.56
 398,"Eldon Regeneration Recycled Desk Accessories, Smoke",Allen Rosenblatt,44708,-37.39,1.74,4.08,Northwest Territories,Office Furnishings,0.53
 399,Accessory36,Dorothy Wardle,44772,-232.99,55.99,5,Northwest Territories,Telephones and Communication,0.83
-400,Linden® 12" Wall Clock With Oak Frame,Julia West,44839,-246.3,33.98,19.99,Northwest Territories,Office Furnishings,0.55
+400,"Linden® 12"" Wall Clock With Oak Frame",Julia West,44839,-246.3,33.98,19.99,Northwest Territories,Office Furnishings,0.55
 401,2160i,Ralph Knight,45217,1864.66,200.99,4.2,Northwest Territories,Telephones and Communication,0.59
 402,Global Deluxe High-Back Office Chair in Storm,Michelle Lonsdale,45440,-183.6,135.99,28.63,Northwest Territories,Chairs & Chairmats,0.76
-403,Howard Miller 16" Diameter Gallery Wall Clock,Charlotte Melton,45766,1026.07,63.94,14.48,Northwest Territories,Office Furnishings,0.46
+403,"Howard Miller 16"" Diameter Gallery Wall Clock",Charlotte Melton,45766,1026.07,63.94,14.48,Northwest Territories,Office Furnishings,0.46
 404,Canon MP100DHII Printing Calculator,Charlotte Melton,45766,1765.48,140.99,13.99,Northwest Territories,Office Machines,0.37
 405,Accessory21,Allen Rosenblatt,45861,319.1,20.99,0.99,Northwest Territories,Telephones and Communication,0.37
 406,Verbatim DVD-R 4.7GB authoring disc,Neola Schneider,45957,162.83,39.24,1.99,Northwest Territories,Computer Peripherals,0.51
@@ -413,7 +413,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 412,"Dixon My First Ticonderoga Pencil, #2",Susan Vittorini,47462,-1.22,5.85,2.27,Northwest Territories,Pens & Art Supplies,0.56
 413,Acco® Hot Clips™ Clips to Go,Susan Vittorini,47462,21.62,3.29,1.35,Northwest Territories,Rubber Bands,0.4
 414,Fiskars® Softgrip Scissors,Charles McCrossin,47620,20.27,10.98,3.37,Northwest Territories,"Scissors, Rulers and Trimmers",0.57
-415,Elite 5" Scissors,Cari Schnelling,47749,-188.53,8.45,7.77,Northwest Territories,"Scissors, Rulers and Trimmers",0.55
+415,"Elite 5"" Scissors",Cari Schnelling,47749,-188.53,8.45,7.77,Northwest Territories,"Scissors, Rulers and Trimmers",0.55
 416,Eldon Wave Desk Accessories,Doug Bickford,47873,-17.38,5.89,5.57,Northwest Territories,Office Furnishings,0.41
 417,Avery 478,Don Miller,47943,24.06,4.91,0.5,Northwest Territories,Labels,0.36
 418,Boston 16701 Slimline Battery Pencil Sharpener,Don Miller,47943,63.46,15.94,5.45,Northwest Territories,Pens & Art Supplies,0.55
@@ -426,10 +426,10 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 425,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Beth Thompson,49952,630.28,107.53,5.81,Northwest Territories,Office Furnishings,0.65
 426,Avery 498,Allen Rosenblatt,50117,14.49,2.89,0.5,Northwest Territories,Labels,0.38
 427,Premium Transparent Presentation Covers by GBC,Beth Thompson,50278,-27.53,20.98,8.83,Northwest Territories,Binders and Binder Accessories,0.37
-428,Barricks 18" x 48" Non-Folding Utility Table with Bottom Storage Shelf,Beth Thompson,50278,-355.94,100.8,60,Northwest Territories,Tables,0.59
+428,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",Beth Thompson,50278,-355.94,100.8,60,Northwest Territories,Tables,0.59
 429,GBC VeloBinder Electric Binding Machine,Susan Vittorini,50374,1443.35,120.98,9.07,Northwest Territories,Binders and Binder Accessories,0.35
 430,Brown Kraft Recycled Envelopes,Sylvia Foulston,50565,-138.82,16.98,12.39,Northwest Territories,Envelopes,0.35
-431,Acme® 8" Straight Scissors,Joy Bell,50688,27.86,12.98,3.14,Northwest Territories,"Scissors, Rulers and Trimmers",0.6
+431,"Acme® 8"" Straight Scissors",Joy Bell,50688,27.86,12.98,3.14,Northwest Territories,"Scissors, Rulers and Trimmers",0.6
 432,Bell Sonecor JB700 Caller ID,Becky Castell,50754,-58.34,7.99,5.03,Northwest Territories,Telephones and Communication,0.6
 433,A1228,Carlos Daly,50914,2763.13,195.99,8.99,Northwest Territories,Telephones and Communication,0.58
 434,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Cari Schnelling,51169,-192.92,136.98,24.49,Northwest Territories,Office Furnishings,0.59
@@ -463,14 +463,14 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 462,"Global Leather and Oak Executive Chair, Black",Bryan Mills,55298,-165.6,300.98,64.73,Northwest Territories,Chairs & Chairmats,0.56
 463,"Dual Level, Single-Width Filing Carts",Ralph Arnett,55363,542.16,155.06,7.07,Northwest Territories,Storage & Organization,0.59
 464,"Fellowes Smart Design 104-Key Enhanced Keyboard, PS/2 Adapter, Platinum",Doug Bickford,55366,-204.65,55.94,6.55,Northwest Territories,Computer Peripherals,0.68
-465,Wilson Jones 1" Hanging DublLock® Ring Binders,Eugene Barchas,55715,16.65,5.28,2.99,Northwest Territories,Binders and Binder Accessories,0.37
+465,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Eugene Barchas,55715,16.65,5.28,2.99,Northwest Territories,Binders and Binder Accessories,0.37
 466,"Master Giant Foot® Doorstop, Safety Yellow",Brad Eason,55875,39.29,7.59,4,Northwest Territories,Office Furnishings,0.42
 467,"Perma STOR-ALL™ Hanging File Box, 13 1/8""W x 12 1/4""D x 10 1/2""H",Brad Eason,55875,-104.96,5.98,4.69,Northwest Territories,Storage & Organization,0.68
 468,Epson DFX-8500 Dot Matrix Printer,Dorothy Wardle,56453,-5572.39,2550.14,29.7,Northwest Territories,Office Machines,0.57
 469,Xerox 194,Ralph Knight,57127,171.82,55.48,14.3,Northwest Territories,Paper,0.37
 470,SouthWestern Bell FA970 Digital Answering Machine with Time/Day Stamp,Sylvia Foulston,57344,-71.03,28.99,8.59,Northwest Territories,Telephones and Communication,0.56
 471,Avery 493,Neola Schneider,57509,101.13,4.91,0.5,Northwest Territories,Labels,0.36
-472,Bevis Round Bullnose 29" High Table Top,Neola Schneider,57509,-202.58,259.71,66.67,Northwest Territories,Tables,0.61
+472,"Bevis Round Bullnose 29"" High Table Top",Neola Schneider,57509,-202.58,259.71,66.67,Northwest Territories,Tables,0.61
 473,GBC Recycled Regency Composition Covers,Grant Carroll,57600,584.15,59.78,10.29,Northwest Territories,Binders and Binder Accessories,0.39
 474,Avery 506,Grant Carroll,57600,85.81,4.13,0.5,Prince Edward Island,Labels,0.39
 475,Xerox 197,Grant Carroll,57600,-8.42,30.98,17.08,Prince Edward Island,Paper,0.4
@@ -481,7 +481,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 480,Eldon® Wave Desk Accessories,Doug Bickford,58368,-4.43,2.08,5.33,Prince Edward Island,Office Furnishings,0.43
 481,Xerox 1905,Doug Bickford,58368,-206.46,6.48,9.54,Prince Edward Island,Paper,0.37
 482,Fellowes Bankers Box™ Staxonsteel® Drawer File/Stacking System,Doug Bickford,58368,-76.11,64.98,6.88,Prince Edward Island,Storage & Organization,0.73
-483,Executive Impressions 13" Clairmont Wall Clock,Dorothy Badders,58434,268.32,19.23,6.15,Prince Edward Island,Office Furnishings,0.44
+483,"Executive Impressions 13"" Clairmont Wall Clock",Dorothy Badders,58434,268.32,19.23,6.15,Prince Edward Island,Office Furnishings,0.44
 484,"Global Leather and Oak Executive Chair, Black",Henry Goldwyn,58626,673.77,300.98,64.73,Prince Edward Island,Chairs & Chairmats,0.56
 485,Global Troy™ Executive Leather Low-Back Tilter,Henry Goldwyn,58626,2608.72,500.98,26,Prince Edward Island,Chairs & Chairmats,0.6
 486,"Verbatim DVD-RAM, 9.4GB, Rewritable, Type 1, DS, DataLife Plus",Henry Goldwyn,58626,171.59,45.19,1.99,Prince Edward Island,Computer Peripherals,0.55
@@ -531,7 +531,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 530,Canon PC1060 Personal Laser Copier,Hilary Holden,11362,-690.21,699.99,24.49,Prince Edward Island,Copiers and Fax,0.41
 531,LX 677,Hilary Holden,11362,424.14,110.99,8.99,Prince Edward Island,Telephones and Communication,0.57
 532,Avery Hi-Liter® Fluorescent Desk Style Markers,Christopher Schild,11968,26.09,3.38,0.85,Prince Edward Island,Pens & Art Supplies,0.48
-533,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Harold Engle,12293,119.64,8.74,1.39,Prince Edward Island,Envelopes,0.38
+533,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Harold Engle,12293,119.64,8.74,1.39,Prince Edward Island,Envelopes,0.38
 534,Acco Suede Grain Vinyl Round Ring Binder,Greg Guthrie,12773,-4.61,2.78,1.49,Prince Edward Island,Binders and Binder Accessories,0.39
 535,Eldon Image Series Black Desk Accessories,Greg Guthrie,12773,-49.6,4.14,6.6,Prince Edward Island,Office Furnishings,0.49
 536,Xerox 213,Greg Guthrie,12773,-77.18,6.48,7.86,Prince Edward Island,Paper,0.37
@@ -615,7 +615,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 614,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",Erica Bern,32199,-99.76,4.91,4.97,Prince Edward Island,Binders and Binder Accessories,0.38
 615,Canon imageCLASS 2200 Advanced Copier,Erica Bern,32199,-3061.82,3499.99,24.49,Prince Edward Island,Copiers and Fax,0.37
 616,Newell 312,Erica Bern,32199,-0.01,5.84,1.2,Prince Edward Island,Pens & Art Supplies,0.55
-617,Chromcraft Bull-Nose Wood 48" x 96" Rectangular Conference Tables,Erica Bern,32327,-1430.45,550.98,147.12,Prince Edward Island,Tables,0.8
+617,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Erica Bern,32327,-1430.45,550.98,147.12,Prince Edward Island,Tables,0.8
 618,"Verbatim DVD-RAM, 9.4GB, Rewritable, Type 1, DS, DataLife Plus",Joy Smith,32676,523.43,45.19,1.99,Prince Edward Island,Computer Peripherals,0.55
 619,KF 788,Joy Smith,32835,-19.44,45.99,4.99,Prince Edward Island,Telephones and Communication,0.56
 620,"Imation Neon Mac Format Diskettes, 10/Pack",Christopher Schild,32869,-82.83,8.12,2.83,Prince Edward Island,Computer Peripherals,0.77
@@ -623,7 +623,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 622,Sanford Liquid Accent Highlighters,Christopher Schild,32869,-7.51,6.68,1.5,Prince Edward Island,Pens & Art Supplies,0.48
 623,2180,Christopher Schild,32869,930.99,175.99,8.99,Prince Edward Island,Telephones and Communication,0.57
 624,Sharp AL-1530CS Digital Copier,Evan Minnotte,33763,-234.79,499.99,24.49,Prince Edward Island,Copiers and Fax,0.36
-625,Executive Impressions 14" Contract Wall Clock,Christopher Schild,34048,-10.74,22.23,3.63,Prince Edward Island,Office Furnishings,0.52
+625,"Executive Impressions 14"" Contract Wall Clock",Christopher Schild,34048,-10.74,22.23,3.63,Prince Edward Island,Office Furnishings,0.52
 626,*Staples* Highlighting Markers,Greg Guthrie,34275,26.66,4.84,0.71,Prince Edward Island,Pens & Art Supplies,0.52
 627,Boston 19500 Mighty Mite Electric Pencil Sharpener,Harold Engle,34438,-30.72,20.15,8.99,Prince Edward Island,Pens & Art Supplies,0.58
 628,Xerox 1995,Philip Brown,34880,-62.43,6.48,5.19,Prince Edward Island,Paper,0.37
@@ -660,7 +660,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 659,"GBC Laser Imprintable Binding System Covers, Desert Sand",Logan Haushalter,42918,30.48,14.27,7.27,Prince Edward Island,Binders and Binder Accessories,0.38
 660,"Sharp EL501VB Scientific Calculator, Battery Operated, 10-Digit Display, Hard Case",Logan Haushalter,42918,-54.58,9.49,5.76,Prince Edward Island,Office Machines,0.39
 661,Hon Multipurpose Stacking Arm Chairs,Filia McAdams,42944,1061.61,216.6,64.2,Prince Edward Island,Chairs & Chairmats,0.59
-662,Executive Impressions 14",Carlos Soltero,44037,326.43,22.23,5.08,Prince Edward Island,Office Furnishings,0.41
+662,"Executive Impressions 14""",Carlos Soltero,44037,326.43,22.23,5.08,Prince Edward Island,Office Furnishings,0.41
 663,Accessory2,Carlos Soltero,44037,557.6,55.99,1.25,Prince Edward Island,Telephones and Communication,0.55
 664,"Verbatim DVD-RAM, 5.2GB, Rewritable, Type 1, DS",Erica Bern,44387,475.26,29.89,1.99,Prince Edward Island,Computer Peripherals,0.5
 665,Southworth 25% Cotton Antique Laid Paper & Envelopes,Erica Bern,44387,-6.71,8.34,4.82,Prince Edward Island,Paper,0.4
@@ -680,7 +680,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 679,Bionaire Personal Warm Mist Humidifier/Vaporizer,Greg Guthrie,47876,58.08,46.89,5.1,Prince Edward Island,Appliances,0.46
 680,270c,Jennifer Braxton,48067,695.06,125.99,3,Prince Edward Island,Telephones and Communication,0.59
 681,T28 WORLD,Jennifer Braxton,48067,630.7,195.99,8.99,Prince Edward Island,Telephones and Communication,0.6
-682,#10-4 1/8" x 9 1/2" Premium Diagonal Seam Envelopes,Erica Bern,48199,279.74,15.74,1.39,Prince Edward Island,Envelopes,0.4
+682,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",Erica Bern,48199,279.74,15.74,1.39,Prince Edward Island,Envelopes,0.4
 683,CF 888,Jim Sink,49029,2549.4,195.99,3.99,Prince Edward Island,Telephones and Communication,0.59
 684,GBC Standard Therm-A-Bind Covers,Noah Childs,49216,-45.82,24.92,12.98,Prince Edward Island,Binders and Binder Accessories,0.39
 685,Epson LQ-570e Dot Matrix Printer,Noah Childs,49216,-172.48,270.97,28.06,Manitoba,Office Machines,0.56
@@ -699,7 +699,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 698,ACCOHIDE® Binder by Acco,Carlos Soltero,52130,-39.96,4.13,5.34,Manitoba,Binders and Binder Accessories,0.38
 699,Eldon Executive Woodline II Cherry Finish Desk Accessories,Carlos Soltero,52130,-4.01,40.89,18.98,Manitoba,Office Furnishings,0.57
 700,Belkin 8 Outlet Surge Protector,Greg Guthrie,52482,163.78,40.98,5.33,Manitoba,Appliances,0.57
-701,Executive Impressions 14" Contract Wall Clock,Greg Guthrie,52482,217.06,22.23,3.63,Manitoba,Office Furnishings,0.52
+701,"Executive Impressions 14"" Contract Wall Clock",Greg Guthrie,52482,217.06,22.23,3.63,Manitoba,Office Furnishings,0.52
 702,"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",Christopher Schild,53410,-253.11,14.81,13.32,Manitoba,Appliances,0.43
 703,Bevis Steel Folding Chairs,Joy Smith,53477,-1207.18,95.95,74.35,Manitoba,Chairs & Chairmats,0.57
 704,"Global Leather and Oak Executive Chair, Black",Joy Smith,53477,1261.44,300.98,64.73,Manitoba,Chairs & Chairmats,0.56
@@ -758,7 +758,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 757,Kensington 7 Outlet MasterPiece® HOMEOFFICE Power Control Center,Matt Collins,5318,195.16,131.12,0.99,British Columbia,Appliances,0.55
 758,2160i,Matt Collins,5318,1196.37,200.99,4.2,British Columbia,Telephones and Communication,0.59
 759,Sharp AL-1530CS Digital Copier,Sanjit Chand,5988,-379.29,499.99,24.49,British Columbia,Copiers and Fax,0.36
-760,Seth Thomas 13 1/2" Wall Clock,Matt Collins,6115,78.86,17.78,5.03,British Columbia,Office Furnishings,0.54
+760,"Seth Thomas 13 1/2"" Wall Clock",Matt Collins,6115,78.86,17.78,5.03,British Columbia,Office Furnishings,0.54
 761,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",Justin Knight,6337,-912.08,70.71,37.58,British Columbia,Office Furnishings,0.78
 762,Bretford Rectangular Conference Table Tops,Justin Knight,6337,-261.61,376.13,85.63,British Columbia,Tables,0.74
 763,Wirebound Voice Message Log Book,Rob Haberlin,6434,14.49,4.76,0.88,British Columbia,Paper,0.39
@@ -820,9 +820,9 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 819,Xerox 220,Lena Cacioppo,25475,-191.49,6.48,7.49,British Columbia,Paper,0.37
 820,Computer Printout Paper with Letter-Trim Perforations,Seth Vernon,26978,-21.2,18.97,9.03,British Columbia,Paper,0.37
 821,Wausau Papers Astrobrights® Colored Envelopes,Sanjit Chand,27105,39.63,5.98,2.5,British Columbia,Envelopes,0.36
-822,Executive Impressions 8-1/2" Career Panel/Partition Cubicle Clock,Sanjit Chand,27105,26.21,10.4,5.4,British Columbia,Office Furnishings,0.51
+822,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",Sanjit Chand,27105,26.21,10.4,5.4,British Columbia,Office Furnishings,0.51
 823,Belkin MediaBoard 104- Keyboard,Julie Creighton,28068,-43.96,27.48,4,British Columbia,Computer Peripherals,0.75
-824,Executive Impressions 12" Wall Clock,Sanjit Chand,28802,51.36,17.67,8.99,British Columbia,Office Furnishings,0.47
+824,"Executive Impressions 12"" Wall Clock",Sanjit Chand,28802,51.36,17.67,8.99,British Columbia,Office Furnishings,0.47
 825,Southworth 25% Cotton Antique Laid Paper & Envelopes,Sanjit Chand,28802,25.95,8.34,4.82,British Columbia,Paper,0.4
 826,6185,Sanjit Chand,28802,884.91,205.99,3,British Columbia,Telephones and Communication,0.58
 827,"Eldon Spacemaker® Box, Quick-Snap Lid, Clear",Anthony Johnson,28839,-175.86,3.34,7.49,British Columbia,Pens & Art Supplies,0.54
@@ -858,7 +858,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 857,Durable Pressboard Binders,Rob Haberlin,47367,-0.17,3.8,1.49,British Columbia,Binders and Binder Accessories,0.38
 858,Avery 52,Rob Haberlin,47367,2.28,3.69,0.5,British Columbia,Labels,0.38
 859,Avery 492,Sally Knutson,47750,36.64,2.88,0.5,British Columbia,Labels,0.39
-860,Executive Impressions 13" Chairman Wall Clock,Sally Knutson,47750,216.12,25.38,8.99,British Columbia,Office Furnishings,0.5
+860,"Executive Impressions 13"" Chairman Wall Clock",Sally Knutson,47750,216.12,25.38,8.99,British Columbia,Office Furnishings,0.5
 861,Binder Posts,Marina Lichtenstein,48388,-13.33,5.74,5.01,British Columbia,Binders and Binder Accessories,0.39
 862,Avery 498,Christina DeMoss,49059,45.51,2.89,0.5,British Columbia,Labels,0.38
 863,Xerox 1891,Christina DeMoss,49059,32.86,48.91,5.81,British Columbia,Paper,0.38
@@ -873,12 +873,12 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 872,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Luke Weiss,51073,958.8,136.98,24.49,British Columbia,Office Furnishings,0.59
 873,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",Luke Weiss,51073,813.35,30.93,3.92,British Columbia,Office Furnishings,0.44
 874,Office Star Flex Back Scooter Chair with White Frame,Rob Haberlin,51584,176.04,110.98,30,British Columbia,Chairs & Chairmats,0.71
-875,Howard Miller 11-1/2" Diameter Ridgewood Wall Clock,Monica Federle,51879,372.26,51.94,19.99,British Columbia,Office Furnishings,0.44
+875,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",Monica Federle,51879,372.26,51.94,19.99,British Columbia,Office Furnishings,0.44
 876,Southworth 25% Cotton Premium Laser Paper and Envelopes,Monica Federle,51879,212.06,19.98,8.68,British Columbia,Paper,0.37
 877,Howard Miller 12-3/4 Diameter Accuwave DS ™ Wall Clock,Kimberly Carter,52288,545.11,78.69,19.99,British Columbia,Office Furnishings,0.43
 878,Lock-Up Easel 'Spel-Binder',Michelle Arnett,53190,74.64,28.53,1.49,British Columbia,Binders and Binder Accessories,0.38
 879,StarTAC 7760,Michelle Arnett,53190,-170.53,65.99,3.99,British Columbia,Telephones and Communication,0.59
-880,Seth Thomas 12" Clock w/ Goldtone Case,Sanjit Chand,53536,109.16,22.98,7.58,British Columbia,Office Furnishings,0.51
+880,"Seth Thomas 12"" Clock w/ Goldtone Case",Sanjit Chand,53536,109.16,22.98,7.58,British Columbia,Office Furnishings,0.51
 881,Bevis Round Conference Room Tables and Bases,Sanjit Chand,53536,-234.59,179.29,56.2,British Columbia,Tables,0.71
 882,#10 Self-Seal White Envelopes,Marina Lichtenstein,53572,4.79,11.09,5.25,British Columbia,Envelopes,0.36
 883,Xerox 1885,Joy Smith,53825,649.8,48.04,7.23,British Columbia,Paper,0.37
@@ -931,7 +931,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 930,"O'Sullivan Elevations Bookcase, Cherry Finish",Sonia Sunley,16230,-801.09,130.98,54.74,British Columbia,Bookcases,0.69
 931,Xerox 1891,Sonia Sunley,16230,223.76,48.91,5.81,British Columbia,Paper,0.38
 932,Fellowes Recycled Storage Drawers,Sonia Sunley,16230,506.86,111.03,8.64,British Columbia,Storage & Organization,0.78
-933,1.7 Cubic Foot Compact "Cube" Office Refrigerators,Sonia Sunley,19074,191.47,208.16,68.02,British Columbia,Appliances,0.58
+933,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Sonia Sunley,19074,191.47,208.16,68.02,British Columbia,Appliances,0.58
 934,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",Dennis Bolton,20194,68.89,20.24,6.67,British Columbia,Office Furnishings,0.49
 935,Newell 312,Stewart Carmichael,21024,33.8,5.84,1.2,British Columbia,Pens & Art Supplies,0.55
 936,Avery 487,Dennis Bolton,21509,15.82,3.69,0.5,British Columbia,Labels,0.38
@@ -974,7 +974,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 973,Hon Comfortask® Task/Swivel Chairs,Barbara Fisher,35812,-112.62,113.98,30,British Columbia,Chairs & Chairmats,0.69
 974,Fellowes 17-key keypad for PS/2 interface,Barbara Fisher,35812,-147.81,30.73,4,British Columbia,Computer Peripherals,0.75
 975,Xerox 1938,Barbara Fisher,35812,307.64,47.9,5.86,British Columbia,Paper,0.37
-976,Executive Impressions 12" Wall Clock,Alex Avila,37063,89.6,17.67,8.99,British Columbia,Office Furnishings,0.47
+976,"Executive Impressions 12"" Wall Clock",Alex Avila,37063,89.6,17.67,8.99,British Columbia,Office Furnishings,0.47
 977,1726 Digital Answering Machine,Roy Skaria,37281,3.31,20.99,4.81,British Columbia,Telephones and Communication,0.58
 978,Hon 4070 Series Pagoda™ Armless Upholstered Stacking Chairs,Angele Hood,37798,813.49,291.73,48.8,British Columbia,Chairs & Chairmats,0.56
 979,Rediform S.O.S. Phone Message Books,Seth Vernon,38017,45.14,4.98,0.8,British Columbia,Paper,0.36
@@ -1019,7 +1019,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1018,"Imation 3.5"", DISKETTE 44766 HGHLD3.52HD/FM, 10/Pack",Peter Buhler,54947,-98.35,4.98,4.62,British Columbia,Computer Peripherals,0.64
 1019,Hand-Finished Solid Wood Document Frame,Peter Buhler,54947,565.37,34.23,5.02,British Columbia,Office Furnishings,0.55
 1020,Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,Dennis Bolton,55170,138.37,43.98,8.99,British Columbia,Pens & Art Supplies,0.58
-1021,Howard Miller 13-3/4" Diameter Brushed Chrome Round Wall Clock,Roy Skaria,55777,136.32,51.75,19.99,British Columbia,Office Furnishings,0.55
+1021,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Roy Skaria,55777,136.32,51.75,19.99,British Columbia,Office Furnishings,0.55
 1022,StarTAC 7760,Roy Skaria,55777,-252.48,65.99,3.99,British Columbia,Telephones and Communication,0.59
 1023,Xerox 210,Alex Avila,56001,-60.65,6.48,7.37,British Columbia,Paper,0.37
 1024,Personal Creations™ Ink Jet Cards and Labels,Anthony O'Donnell,56640,-12.78,11.48,5.43,British Columbia,Paper,0.36
@@ -1059,7 +1059,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1058,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,Khloe Miller,5346,-1448.83,90.98,56.2,British Columbia,Office Furnishings,0.74
 1059,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,Khloe Miller,5346,-1760.57,218.75,69.64,British Columbia,Tables,0.77
 1060,"Sauder Forest Hills Library, Woodland Oak Finish",Khloe Miller,5346,-455.8,140.98,36.09,British Columbia,Bookcases,0.77
-1061,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Shahid Hopkins,5473,-149.46,8.74,8.29,British Columbia,Envelopes,0.38
+1061,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Shahid Hopkins,5473,-149.46,8.74,8.29,British Columbia,Envelopes,0.38
 1062,Kensington 6 Outlet Guardian Standard Surge Protector,Kristina Nunn,5698,-16.89,20.48,6.32,British Columbia,Appliances,0.58
 1063,"#10 White Business Envelopes,4 1/8 x 9 1/2",Kristina Nunn,5698,25.51,15.67,1.39,British Columbia,Envelopes,0.38
 1064,Avery 492,Ralph Kennedy,6144,22.63,2.88,0.5,British Columbia,Labels,0.39
@@ -1122,7 +1122,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1121,Xerox 1947,Ricardo Emerson,17831,-45.75,5.98,5.35,British Columbia,Paper,0.4
 1122,Imation 5.2GB DVD-RAM,Liz Price,18179,1207.91,60.98,1.99,British Columbia,Computer Peripherals,0.5
 1123,Avery 481,Liz Price,18179,16.1,3.08,0.99,British Columbia,Labels,0.37
-1124,Speediset Carbonless Redi-Letter® 7" x 8 1/2",Liz Price,18179,221.59,10.31,1.79,British Columbia,Paper,0.38
+1124,"Speediset Carbonless Redi-Letter® 7"" x 8 1/2""",Liz Price,18179,221.59,10.31,1.79,British Columbia,Paper,0.38
 1125,Canon MP41DH Printing Calculator,Rob Dowd,19044,1912.92,150.98,13.99,British Columbia,Office Machines,0.38
 1126,Filing/Storage Totes and Swivel Casters,Rob Dowd,19044,-191.09,9.71,9.45,British Columbia,Storage & Organization,0.6
 1127,Carina Double Wide Media Storage Towers in Natural & Black,Mark Cousins,19462,-156.47,80.98,35,British Columbia,Storage & Organization,0.81
@@ -1209,7 +1209,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1208,Nu-Form 106-Key Ergonomic Keyboard w/ Touchpad,Neil Knudson,32611,68.9,53.98,5.5,British Columbia,Computer Peripherals,0.62
 1209,Xerox 1989,Neil Knudson,32611,-31.99,4.98,5.02,British Columbia,Paper,0.38
 1210,Avery 496,Neil Knudson,32901,17.7,3.75,0.5,British Columbia,Labels,0.37
-1211,Executive Impressions 14" Contract Wall Clock with Quartz Movement,Lela Donovan,33284,144.66,22.23,8.99,British Columbia,Office Furnishings,0.41
+1211,"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",Lela Donovan,33284,144.66,22.23,8.99,British Columbia,Office Furnishings,0.41
 1212,Epson LQ-570e Dot Matrix Printer,Mike Vittorini,33287,3909.33,270.97,28.06,British Columbia,Office Machines,0.56
 1213,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Heather Jas,33732,-28.16,9.65,6.22,British Columbia,Office Furnishings,0.55
 1214,Staples Battery-Operated Desktop Pencil Sharpener,Justin Hirsh,34435,40.92,10.48,2.89,British Columbia,Pens & Art Supplies,0.6
@@ -1222,7 +1222,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1221,V8160,Ralph Kennedy,36803,-316.32,65.99,2.5,British Columbia,Telephones and Communication,0.56
 1222,Hand-Finished Solid Wood Document Frame,Shahid Shariari,36805,165.33,34.23,5.02,British Columbia,Office Furnishings,0.55
 1223,g520,Shahid Shariari,36805,226.72,65.99,5.26,British Columbia,Telephones and Communication,0.59
-1224,Rush Hierlooms Collection 1" Thick Stackable Bookcases,Rob Dowd,36834,-42.96,170.98,35.89,British Columbia,Bookcases,0.66
+1224,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",Rob Dowd,36834,-42.96,170.98,35.89,British Columbia,Bookcases,0.66
 1225,Hewlett-Packard Deskjet 1220Cse Color Inkjet Printer,Chuck Clark,37410,8504.47,400.97,48.26,British Columbia,Office Machines,0.36
 1226,Avery Printable Repositionable Plastic Tabs,Giulietta Weimer,37729,-26.78,8.6,6.19,British Columbia,Binders and Binder Accessories,0.38
 1227,"Letter/Legal File Tote with Clear Snap-On Lid, Black Granite",Khloe Miller,37988,-56.71,16.06,8.34,British Columbia,Storage & Organization,0.59
@@ -1233,7 +1233,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1232,Belkin 6 Outlet Metallic Surge Strip,Shahid Hopkins,40134,-21.66,10.89,4.5,British Columbia,Appliances,0.59
 1233,"Memorex 4.7GB DVD-RAM, 3/Pack",Shahid Hopkins,40134,674.46,31.78,1.99,British Columbia,Computer Peripherals,0.42
 1234,Xerox 1949,Shahid Hopkins,40134,-6.72,4.98,4.72,British Columbia,Paper,0.36
-1235,Seth Thomas 12" Clock w/ Goldtone Case,Chuck Clark,40164,75.63,22.98,7.58,British Columbia,Office Furnishings,0.51
+1235,"Seth Thomas 12"" Clock w/ Goldtone Case",Chuck Clark,40164,75.63,22.98,7.58,British Columbia,Office Furnishings,0.51
 1236,Xerox 1939,Bill Eplett,40608,55.82,18.97,9.54,British Columbia,Paper,0.37
 1237,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Bill Eplett,40608,-89.88,5.28,5.66,British Columbia,Paper,0.4
 1238,Xerox 1894,Sarah Bern,40801,-56.15,6.48,6.22,British Columbia,Paper,0.37
@@ -1253,7 +1253,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1252,GBC DocuBind P100 Manual Binding Machine,Sally Knutson,43111,1749.78,165.98,19.99,British Columbia,Binders and Binder Accessories,0.4
 1253,Xerox 1974,Marc Harrigan,43140,-49.53,5.98,5.14,British Columbia,Paper,0.36
 1254,Serrated Blade or Curved Handle Hand Letter Openers,John Grady,44098,-2.64,3.14,1.92,British Columbia,"Scissors, Rulers and Trimmers",0.84
-1255,Seth Thomas 12" Clock w/ Goldtone Case,Khloe Miller,44451,-19.26,22.98,7.58,Nova Scotia,Office Furnishings,0.51
+1255,"Seth Thomas 12"" Clock w/ Goldtone Case",Khloe Miller,44451,-19.26,22.98,7.58,Nova Scotia,Office Furnishings,0.51
 1256,Panasonic KP-150 Electric Pencil Sharpener,Tony Chapman,45059,371.28,37.74,2.9,Nova Scotia,Pens & Art Supplies,0.59
 1257,Fellowes Stor/Drawer® Steel Plus™ Storage Drawers,Tony Chapman,45059,-508.87,95.43,19.99,Nova Scotia,Storage & Organization,0.79
 1258,ACCOHIDE® Binder by Acco,Ralph Kennedy,45155,-150.26,4.13,5.34,Nova Scotia,Binders and Binder Accessories,0.38
@@ -1361,8 +1361,8 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1360,Global Adaptabilities™ Conference Tables,Jack O'Briant,9922,539.54,280.98,35.67,Nova Scotia,Tables,0.66
 1361,Eldon® Wave Desk Accessories,Chad Sievert,9923,-96.03,2.08,5.33,Nova Scotia,Office Furnishings,0.43
 1362,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",Chad Sievert,9923,-115.08,370.98,99,Nova Scotia,Storage & Organization,0.65
-1363,Avery Trapezoid Extra Heavy Duty 4" Binders,Chad Sievert,9925,771.83,41.94,2.99,Nova Scotia,Binders and Binder Accessories,0.35
-1364,Wilson Jones 1" Hanging DublLock® Ring Binders,Chad Sievert,9925,-9.35,5.28,2.99,Nova Scotia,Binders and Binder Accessories,0.37
+1363,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Chad Sievert,9925,771.83,41.94,2.99,Nova Scotia,Binders and Binder Accessories,0.35
+1364,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Chad Sievert,9925,-9.35,5.28,2.99,Nova Scotia,Binders and Binder Accessories,0.37
 1365,Boston 1730 StandUp Electric Pencil Sharpener,Chad Sievert,9925,-27.99,21.38,8.99,Nova Scotia,Pens & Art Supplies,0.59
 1366,"Imation 3.5"" DS/HD IBM Formatted Diskettes, 50/Pack",Sally Matthias,10593,-147.51,15.98,8.99,Nova Scotia,Computer Peripherals,0.64
 1367,Howard Miller Distant Time Traveler Alarm Clock,Sally Matthias,10593,-40.98,27.42,19.46,Nova Scotia,Office Furnishings,0.44
@@ -1398,7 +1398,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1397,"Sauder Forest Hills Library, Woodland Oak Finish",Roland Black,18754,-221.5,140.98,36.09,Nova Scotia,Bookcases,0.77
 1398,Talkabout T8367,Roland Black,18754,206.35,65.99,8.99,Nova Scotia,Telephones and Communication,0.56
 1399,Avery 506,Matt Abelman,19905,32.5,4.13,0.5,Nova Scotia,Labels,0.39
-1400,Chromcraft Bull-Nose Wood 48" x 96" Rectangular Conference Tables,Matt Abelman,19905,-3687.65,550.98,64.59,Nova Scotia,Tables,0.66
+1400,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Matt Abelman,19905,-3687.65,550.98,64.59,Nova Scotia,Tables,0.66
 1401,"Iris® 3-Drawer Stacking Bin, Black",Roland Black,20256,-221.56,20.89,11.52,Nova Scotia,Storage & Organization,0.83
 1402,Bagged Rubber Bands,Mike Kennedy,20386,-21.51,1.26,0.7,Nova Scotia,Rubber Bands,0.81
 1403,V 3600 Series,Dana Kaydos,20455,-233.56,65.99,8.99,Nova Scotia,Telephones and Communication,0.58
@@ -1409,7 +1409,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1408,Poly Designer Cover & Back,Sean Wendt,22053,112.97,18.99,5.23,Nova Scotia,Binders and Binder Accessories,0.37
 1409,Verbatim DVD-R 4.7GB authoring disc,Sarah Jordon,22368,-74.85,39.24,1.99,Nova Scotia,Computer Peripherals,0.51
 1410,Hewlett-Packard 2600DN Business Color Inkjet Printer,Sarah Jordon,22368,40.76,119.99,56.14,Nova Scotia,Office Machines,0.39
-1411,Carina 42"Hx23 3/4"W Media Storage Unit,Sarah Jordon,22368,-849.18,80.98,35,Nova Scotia,Storage & Organization,0.83
+1411,"Carina 42""Hx23 3/4""W Media Storage Unit",Sarah Jordon,22368,-849.18,80.98,35,Nova Scotia,Storage & Organization,0.83
 1412,Martin-Yale Premier Letter Opener,Neil Ducich,22885,-29.9,12.88,4.59,Nova Scotia,"Scissors, Rulers and Trimmers",0.82
 1413,Aluminum Document Frame,Sarah Jordon,22947,58.84,12.22,2.85,Nova Scotia,Office Furnishings,0.55
 1414,Belkin F9M820V08 8 Outlet Surge,Michael Granlund,23844,627.85,42.98,4.62,Nova Scotia,Appliances,0.56
@@ -1417,7 +1417,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1416,Avery 520,Michael Granlund,23844,8.4,3.15,0.5,Nova Scotia,Labels,0.37
 1417,"Imation Printable White 80 Minute CD-R Spindle, 50/Pack",Sean Wendt,24039,-64.87,40.98,1.99,Nova Scotia,Computer Peripherals,0.44
 1418,Xerox 1906,Theone Pippenger,25347,309.31,35.44,7.5,Nova Scotia,Paper,0.38
-1419,Speediset Carbonless Redi-Letter® 7" x 8 1/2",Michael Granlund,25825,206.27,10.31,1.79,Nova Scotia,Paper,0.38
+1419,"Speediset Carbonless Redi-Letter® 7"" x 8 1/2""",Michael Granlund,25825,206.27,10.31,1.79,Nova Scotia,Paper,0.38
 1420,"Dixon My First Ticonderoga Pencil, #2",Michael Granlund,25825,-1.79,5.85,2.27,Nova Scotia,Pens & Art Supplies,0.56
 1421,3285,Art Ferguson,26304,2028.36,205.99,5.99,Nova Scotia,Telephones and Communication,0.59
 1422,"Eureka Sanitaire ® Multi-Pro Heavy-Duty Upright, Disposable Bags",Roland Black,26726,-121.58,4.37,5.15,Nova Scotia,Appliances,0.59
@@ -1470,7 +1470,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1469,Stockwell Push Pins,Nathan Mautz,39877,8.06,2.18,0.78,British Columbia,Rubber Bands,0.52
 1470,"DS/HD IBM Formatted Diskettes, 10/Pack - Staples",Theone Pippenger,40259,-20.9,4.98,4.32,British Columbia,Computer Peripherals,0.64
 1471,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",Nathan Cano,41217,575.38,55.48,6.79,British Columbia,Paper,0.37
-1472,Acme® 8" Straight Scissors,Bart Watters,41671,77.48,12.98,3.14,British Columbia,"Scissors, Rulers and Trimmers",0.6
+1472,"Acme® 8"" Straight Scissors",Bart Watters,41671,77.48,12.98,3.14,British Columbia,"Scissors, Rulers and Trimmers",0.6
 1473,Xerox 1885,Matt Abelman,41927,1085.93,48.04,7.23,British Columbia,Paper,0.37
 1474,Panasonic KX-P1150 Dot Matrix Printer,Matt Abelman,41988,751.58,145.45,17.85,British Columbia,Office Machines,0.56
 1475,"Metal Folding Chairs, Beige, 4/Carton",Matt Abelman,41988,-157.56,33.94,19.19,British Columbia,Chairs & Chairmats,0.58
@@ -1490,9 +1490,9 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1489,Hon 94000 Series Round Tables,Matt Abelman,45731,-169.23,296.18,154.12,Manitoba,Tables,0.76
 1490,Xerox 1932,Parhena Norris,46375,389.07,35.44,5.09,Manitoba,Paper,0.38
 1491,232,Parhena Norris,46375,162.11,125.99,5.26,Manitoba,Telephones and Communication,0.55
-1492,Executive Impressions 14" Two-Color Numerals Wall Clock,Mike Kennedy,46885,165.35,22.72,8.99,Manitoba,Office Furnishings,0.44
+1492,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Mike Kennedy,46885,165.35,22.72,8.99,Manitoba,Office Furnishings,0.44
 1493,Colored Push Pins,Mike Kennedy,46885,-30.11,1.81,1.56,Manitoba,Rubber Bands,0.49
-1494,Howard Miller 16" Diameter Gallery Wall Clock,Mike Kennedy,46885,720.45,63.94,14.48,Manitoba,Office Furnishings,0.46
+1494,"Howard Miller 16"" Diameter Gallery Wall Clock",Mike Kennedy,46885,720.45,63.94,14.48,Manitoba,Office Furnishings,0.46
 1495,Wilson Jones® Four-Pocket Poly Binders,Mike Kennedy,46948,-28.97,6.54,5.27,Manitoba,Binders and Binder Accessories,0.36
 1496,Southworth 25% Cotton Premium Laser Paper and Envelopes,Theone Pippenger,47267,67.01,19.98,8.68,Manitoba,Paper,0.37
 1497,KI Conference Tables,Theone Pippenger,47267,-931.25,70.89,89.3,Manitoba,Tables,0.69
@@ -1501,7 +1501,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1500,Xerox 224,Dana Kaydos,48167,-237.47,6.48,8.88,Manitoba,Paper,0.37
 1501,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Dana Kaydos,48167,-2946.05,349.45,60,Manitoba,Tables,
 1502,"Deflect-o SuperTray™ Unbreakable Stackable Tray, Letter, Black",Dana Kaydos,48230,387.2,29.18,8.55,Manitoba,Office Furnishings,0.42
-1503,Carina 42"Hx23 3/4"W Media Storage Unit,Dana Kaydos,48230,-684.78,80.98,35,Manitoba,Storage & Organization,0.83
+1503,"Carina 42""Hx23 3/4""W Media Storage Unit",Dana Kaydos,48230,-684.78,80.98,35,Manitoba,Storage & Organization,0.83
 1504,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",Sean Wendt,48480,-522.59,370.98,99,Manitoba,Storage & Organization,0.65
 1505,T28 WORLD,Nathan Mautz,48614,2311.96,195.99,8.99,Manitoba,Telephones and Communication,0.6
 1506,Howard Miller 12-3/4 Diameter Accuwave DS ™ Wall Clock,Aaron Smayling,48772,991.26,78.69,19.99,Manitoba,Office Furnishings,0.43
@@ -1512,7 +1512,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1511,Canon imageCLASS 2200 Advanced Copier,Parhena Norris,48800,285.11,3499.99,24.49,Manitoba,Copiers and Fax,0.37
 1512,"Fellowes Basic 104-Key Keyboard, Platinum",Charles Sheldon,48931,120.05,20.95,4,Manitoba,Computer Peripherals,0.6
 1513,Logitech Internet Navigator Keyboard,Charles Sheldon,48931,-117.39,30.98,6.5,Manitoba,Computer Peripherals,0.79
-1514,Howard Miller 13-3/4" Diameter Brushed Chrome Round Wall Clock,Charles Sheldon,48931,217.87,51.75,19.99,Manitoba,Office Furnishings,0.55
+1514,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Charles Sheldon,48931,217.87,51.75,19.99,Manitoba,Office Furnishings,0.55
 1515,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,Mark Cousins,49126,1055.47,160.98,30,Manitoba,Chairs & Chairmats,0.62
 1516,Xerox 1881,Shaun Weien,49283,31.74,12.28,6.47,Manitoba,Paper,0.38
 1517,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Mary O'Rourke,49441,100.8,41.32,8.66,Manitoba,Office Furnishings,0.76
@@ -1526,7 +1526,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1525,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",Chad Sievert,50048,-11.02,6.84,8.37,Manitoba,"Scissors, Rulers and Trimmers",0.58
 1526,Avanti 1.7 Cu. Ft. Refrigerator,Brian Derr,50499,238.52,100.98,15.66,Manitoba,Appliances,0.57
 1527,252,Neil Ducich,51041,846.95,65.99,5.92,Manitoba,Telephones and Communication,0.55
-1528,Executive Impressions 13-1/2" Indoor/Outdoor Wall Clock,Sarah Jordon,51328,51.47,18.7,8.99,Manitoba,Office Furnishings,0.47
+1528,"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",Sarah Jordon,51328,51.47,18.7,8.99,Manitoba,Office Furnishings,0.47
 1529,Lexmark Z25 Color Inkjet Printer,Theone Pippenger,51333,-9.45,80.97,33.6,Manitoba,Office Machines,0.37
 1530,Southworth 25% Cotton Linen-Finish Paper & Envelopes,Theone Pippenger,51333,-117.86,9.06,9.86,Manitoba,Paper,0.4
 1531,Eldon Wave Desk Accessories,Theone Pippenger,51365,-72.46,5.89,5.57,Manitoba,Office Furnishings,0.41
@@ -1550,7 +1550,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1549,Avery Heavy-Duty EZD ™ Binder With Locking Rings,Shaun Weien,55462,-1.84,5.58,2.99,Manitoba,Binders and Binder Accessories,0.37
 1550,"IBM Active Response Keyboard, Black",Shaun Weien,55462,-26.49,39.98,7.12,Manitoba,Computer Peripherals,0.67
 1551,M70,Shaun Weien,55462,708.76,125.99,8.99,Manitoba,Telephones and Communication,0.59
-1552,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Brad Norvell,55749,149.45,8.74,1.39,Manitoba,Envelopes,0.38
+1552,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Brad Norvell,55749,149.45,8.74,1.39,Manitoba,Envelopes,0.38
 1553,Okidata ML184 Turbo Dot Matrix Printers,Bart Watters,55873,4875.89,306.14,26.53,Manitoba,Office Machines,0.56
 1554,"Sauder Forest Hills Library, Woodland Oak Finish",Theone Pippenger,56135,-320.3,140.98,36.09,Manitoba,Bookcases,0.77
 1555,Colored Push Pins,Theone Pippenger,56135,-41.32,1.81,1.56,Manitoba,Rubber Bands,0.49
@@ -1558,7 +1558,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1557,"Peel & Seel® Recycled Catalog Envelopes, Brown",Art Ferguson,56708,-12.82,11.58,6.97,Manitoba,Envelopes,0.35
 1558,"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",Dennis Bolton,57986,-105.33,14.81,13.32,Manitoba,Appliances,0.43
 1559,"Companion Letter/Legal File, Black",Mary O'Rourke,58310,1.98,37.76,12.9,Manitoba,Storage & Organization,0.57
-1560,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Joel Jenkins,58725,-134.97,8.74,8.29,Manitoba,Envelopes,0.38
+1560,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Joel Jenkins,58725,-134.97,8.74,8.29,Manitoba,Envelopes,0.38
 1561,Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,Meg O'Connel,902,359.83,207.48,0.99,Manitoba,Appliances,0.55
 1562,Belkin 8 Outlet Surge Protector,Hallie Redmond,2147,92.81,40.98,5.33,Manitoba,Appliances,0.57
 1563,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Liz Thompson,2306,-46.35,7.45,6.28,Manitoba,Binders and Binder Accessories,0.4
@@ -1572,7 +1572,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1571,Binding Machine Supplies,Julia Dunbar,5538,415.85,29.17,6.27,Manitoba,Binders and Binder Accessories,0.37
 1572,BPI Conference Tables,Julia Dunbar,5538,-668.19,146.05,80.2,Manitoba,Tables,0.71
 1573,8290,Julia Dunbar,5538,-492.77,125.99,5.63,Manitoba,Telephones and Communication,0.6
-1574,Seth Thomas 12" Clock w/ Goldtone Case,Guy Thornton,5863,207.18,22.98,7.58,Manitoba,Office Furnishings,0.51
+1574,"Seth Thomas 12"" Clock w/ Goldtone Case",Guy Thornton,5863,207.18,22.98,7.58,Manitoba,Office Furnishings,0.51
 1575,"Hon Metal Bookcases, Black",Helen Andreada,7175,-86.99,70.98,26.74,Manitoba,Bookcases,0.6
 1576,Brown Kraft Recycled Envelopes,Mary Zewe,7364,-48.57,16.98,12.39,Manitoba,Envelopes,0.35
 1577,O'Sullivan 5-Shelf Heavy-Duty Bookcases,Meg O'Connel,7878,-1508.46,81.94,55.81,Manitoba,Bookcases,0.6
@@ -1583,7 +1583,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1582,Nu-Dell Executive Frame,Ken Lonsdale,8834,-6.96,12.64,4.98,Manitoba,Office Furnishings,0.48
 1583,GBC Linen Binding Covers,Ken Lonsdale,9155,54.63,30.98,11.63,Manitoba,Binders and Binder Accessories,0.37
 1584,Avery® Durable Slant Ring Binders With Label Holder,Christine Sundaresam,9668,-12.72,4.18,2.99,Manitoba,Binders and Binder Accessories,0.37
-1585,Seth Thomas 12" Clock w/ Goldtone Case,Maria Bertelson,10242,119.25,22.98,7.58,Manitoba,Office Furnishings,0.51
+1585,"Seth Thomas 12"" Clock w/ Goldtone Case",Maria Bertelson,10242,119.25,22.98,7.58,Manitoba,Office Furnishings,0.51
 1586,"Micro Innovations Micro 3000 Keyboard, Black",Ken Lonsdale,12292,-127.23,26.31,5.89,Manitoba,Computer Peripherals,0.75
 1587,Surelock™ Post Binders,Bruce Stewart,14503,157.89,30.56,2.99,Manitoba,Binders and Binder Accessories,0.35
 1588,"Fellowes Basic 104-Key Keyboard, Platinum",Maria Bertelson,15109,-68.76,20.95,5.99,Manitoba,Computer Peripherals,0.65
@@ -1627,11 +1627,11 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1626,"Conquest™ 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",Maria Bertelson,27015,142.51,56.96,13.22,Ontario,Appliances,0.56
 1627,Bush Mission Pointe Library,Maria Bertelson,27840,-407.85,150.98,66.27,Ontario,Bookcases,0.65
 1628,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Guy Thornton,28130,-76.99,15.99,13.18,Ontario,Binders and Binder Accessories,0.37
-1629,Howard Miller 13" Diameter Goldtone Round Wall Clock,Guy Thornton,28130,598.2,46.94,6.77,Ontario,Office Furnishings,0.44
+1629,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",Guy Thornton,28130,598.2,46.94,6.77,Ontario,Office Furnishings,0.44
 1630,"Fellowes Internet Keyboard, Platinum",Maria Bertelson,28290,-154.24,30.42,8.65,Ontario,Computer Peripherals,0.74
 1631,Fellowes Super Stor/Drawer® Files,Maria Bertelson,28290,-179.36,161.55,19.99,Ontario,Storage & Organization,0.66
 1632,GBC Binding covers,Bruce Stewart,29927,33.18,12.95,4.98,Ontario,Binders and Binder Accessories,0.4
-1633,Acco Recycled 2" Capacity Laser Printer Hanging Data Binders,Brian Thompson,29953,50.24,14.45,7.17,Ontario,Binders and Binder Accessories,0.38
+1633,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Brian Thompson,29953,50.24,14.45,7.17,Ontario,Binders and Binder Accessories,0.38
 1634,Hoover WindTunnel™ Plus Canister Vacuum,Joseph Airdo,31238,2017.64,363.25,19.99,Ontario,Appliances,0.57
 1635,Timeport L7089,Christina Vanderzanden,32067,492.24,125.99,7.69,Ontario,Telephones and Communication,0.58
 1636,"Imation 3.5"" Unformatted DS/HD Diskettes, 10/Box",Joseph Airdo,32198,-117.92,7.37,5.53,Ontario,Computer Peripherals,0.69
@@ -1646,8 +1646,8 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1645,Wausau Papers Astrobrights® Colored Envelopes,Christina Vanderzanden,33889,21.46,5.98,2.5,Ontario,Envelopes,0.36
 1646,Avery 49,Christina Vanderzanden,33889,50.44,2.88,0.5,Ontario,Labels,0.36
 1647,Global Ergonomic Managers Chair,Katrina Bavinger,34567,588.54,180.98,26.2,Ontario,Chairs & Chairmats,0.59
-1648,Acco Recycled 2" Capacity Laser Printer Hanging Data Binders,Meg O'Connel,36163,24.61,14.45,7.17,Ontario,Binders and Binder Accessories,0.38
-1649,Tensor "Hersey Kiss" Styled Floor Lamp,Bruce Stewart,36449,-26.39,12.99,14.37,Ontario,Office Furnishings,0.73
+1648,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Meg O'Connel,36163,24.61,14.45,7.17,Ontario,Binders and Binder Accessories,0.38
+1649,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Bruce Stewart,36449,-26.39,12.99,14.37,Ontario,Office Furnishings,0.73
 1650,Prang Colored Pencils,Christine Sundaresam,36675,29.76,2.94,0.81,Ontario,Pens & Art Supplies,0.4
 1651,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Guy Thornton,37862,452.49,59.98,3.99,Ontario,Appliances,0.57
 1652,Avery Printable Repositionable Plastic Tabs,Ken Lonsdale,38240,-15.53,8.6,6.19,Ontario,Binders and Binder Accessories,0.38
@@ -1708,7 +1708,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1707,Fellowes Bankers Box™ Staxonsteel® Drawer File/Stacking System,Meg O'Connel,55969,189.77,64.98,6.88,Ontario,Storage & Organization,0.73
 1708,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",Meg O'Connel,57153,-14.52,11.33,6.12,Ontario,Appliances,0.42
 1709,"#10 White Business Envelopes,4 1/8 x 9 1/2",Meg O'Connel,57153,336.25,15.67,1.39,Ontario,Envelopes,0.38
-1710,Linden® 12" Wall Clock With Oak Frame,Christina Vanderzanden,57538,-244.63,33.98,19.99,Ontario,Office Furnishings,0.55
+1710,"Linden® 12"" Wall Clock With Oak Frame",Christina Vanderzanden,57538,-244.63,33.98,19.99,Ontario,Office Furnishings,0.55
 1711,Wilson Jones DublLock® D-Ring Binders,Doug O'Connell,58656,-0.94,6.75,2.99,Ontario,Binders and Binder Accessories,0.35
 1712,Eldon® Wave Desk Accessories,Doug O'Connell,58656,-1.42,2.08,5.33,Ontario,Office Furnishings,0.43
 1713,"Angle-D Binders with Locking Rings, Label Holders",Christina Vanderzanden,58789,-105.72,7.3,7.72,Ontario,Binders and Binder Accessories,0.38
@@ -1725,11 +1725,11 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1724,Xerox 1922,Liz MacKendrick,1600,-150.74,4.98,7.44,Ontario,Paper,0.36
 1725,Avery Printable Repositionable Plastic Tabs,Craig Carroll,2373,-46.12,8.6,6.19,Ontario,Binders and Binder Accessories,0.38
 1726,Avery 504,Christine Kargatis,2626,18.02,2.88,0.5,Ontario,Labels,0.36
-1727,Executive Impressions 14" Contract Wall Clock with Quartz Movement,Liz MacKendrick,3109,199.3,22.23,8.99,Ontario,Office Furnishings,0.41
+1727,"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",Liz MacKendrick,3109,199.3,22.23,8.99,Ontario,Office Furnishings,0.41
 1728,Talkabout T8097,Liz MacKendrick,3109,1653.97,205.99,8.99,Ontario,Telephones and Communication,0.58
-1729,Executive Impressions 12" Wall Clock,Christine Kargatis,3777,38.06,17.67,8.99,Ontario,Office Furnishings,0.47
+1729,"Executive Impressions 12"" Wall Clock",Christine Kargatis,3777,38.06,17.67,8.99,Ontario,Office Furnishings,0.47
 1730,Artistic Insta-Plaque,Bobby Odegard,3973,117.91,15.68,3.73,Ontario,Office Furnishings,0.46
-1731,Speediset Carbonless Redi-Letter® 7" x 8 1/2",Bobby Odegard,4932,25.96,10.31,1.79,Ontario,Paper,0.38
+1731,"Speediset Carbonless Redi-Letter® 7"" x 8 1/2""",Bobby Odegard,4932,25.96,10.31,1.79,Ontario,Paper,0.38
 1732,Iceberg Mobile Mega Data/Printer Cart ®,Craig Carroll,7239,1416.27,120.33,19.99,Ontario,Storage & Organization,0.59
 1733,Ibico Hi-Tech Manual Binding System,Russell Applegate,9088,6523.26,304.99,19.99,Ontario,Binders and Binder Accessories,0.4
 1734,V 3600 Series,Russell Applegate,9088,118.15,65.99,8.99,Ontario,Telephones and Communication,0.58
@@ -1806,9 +1806,9 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1805,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Sandra Glassco,10340,-178.77,110.98,13.99,Ontario,Office Furnishings,0.69
 1806,Boston 16801 Nautilus™ Battery Pencil Sharpener,Sandra Glassco,10340,-9.78,22.01,5.53,Ontario,Pens & Art Supplies,0.59
 1807,Newell 35,Sandra Glassco,11044,-12.58,3.28,5,Ontario,Pens & Art Supplies,0.56
-1808,Tensor "Hersey Kiss" Styled Floor Lamp,Skye Norling,13313,-159.86,12.99,14.37,Ontario,Office Furnishings,0.73
+1808,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Skye Norling,13313,-159.86,12.99,14.37,Ontario,Office Furnishings,0.73
 1809,Xerox 1906,Skye Norling,13313,223.44,35.44,7.5,Ontario,Paper,0.38
-1810,Acme® 8" Straight Scissors,Skye Norling,13313,75.01,12.98,3.14,Ontario,"Scissors, Rulers and Trimmers",0.6
+1810,"Acme® 8"" Straight Scissors",Skye Norling,13313,75.01,12.98,3.14,Ontario,"Scissors, Rulers and Trimmers",0.6
 1811,Newell 338,Sean O'Donnell,15718,8.4,2.94,0.7,Ontario,Pens & Art Supplies,0.58
 1812,3.6 Cubic Foot Counter Height Office Refrigerator,Susan Vittorini,17506,1939.11,294.62,42.52,Ontario,Appliances,0.57
 1813,Belkin 105-Key Black Keyboard,Shirley Schmidt,20003,30.29,19.98,4,Ontario,Computer Peripherals,0.68
@@ -1862,7 +1862,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1861,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",Ritsa Hightower,12261,151.86,200.98,23.76,Ontario,Chairs & Chairmats,0.58
 1862,Fluorescent Highlighters by Dixon,Ritsa Hightower,12261,1.19,3.98,0.83,Ontario,Pens & Art Supplies,0.51
 1863,Acco 6 Outlet Guardian Premium Surge Suppressor,Ritsa Hightower,12261,25.67,14.56,3.5,Ontario,Appliances,0.58
-1864,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Ritsa Hightower,12261,-67.19,8.74,8.29,Ontario,Envelopes,0.38
+1864,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Ritsa Hightower,12261,-67.19,8.74,8.29,Ontario,Envelopes,0.38
 1865,"Hot File® 7-Pocket, Floor Stand",Ritsa Hightower,12261,617.4,178.47,19.99,Ontario,Storage & Organization,0.55
 1866,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",Joni Blumstein,13408,173.89,60.65,12.23,Ontario,Office Furnishings,0.64
 1867,Wirebound Voice Message Log Book,Pete Armstrong,13444,54.62,4.76,0.88,Ontario,Paper,0.39
@@ -1872,7 +1872,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1871,3M Organizer Strips,Nat Gilpin,16480,-69.53,5.4,7.78,Ontario,Binders and Binder Accessories,0.37
 1872,"80 Minute Slim Jewel Case CD-R , 10/Pack - Staples",Becky Castell,17858,21.07,8.33,1.99,Ontario,Computer Peripherals,0.52
 1873,Logitech Internet Navigator Keyboard,Becky Castell,17858,-109.91,30.98,6.5,Ontario,Computer Peripherals,0.79
-1874,Seth Thomas 12" Clock w/ Goldtone Case,Becky Castell,17858,206.56,22.98,7.58,Ontario,Office Furnishings,0.51
+1874,"Seth Thomas 12"" Clock w/ Goldtone Case",Becky Castell,17858,206.56,22.98,7.58,Ontario,Office Furnishings,0.51
 1875,"Avery 05222 Permanent Self-Adhesive File Folder Labels for Typewriters, on Rolls, White, 250/Roll",Joni Blumstein,18561,-38.9,4.13,6.89,Ontario,Labels,0.39
 1876,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Pauline Chand,19777,-24.96,15.01,8.4,Ontario,Binders and Binder Accessories,0.39
 1877,GBC Recycled Regency Composition Covers,Pauline Chand,19777,-61.88,59.78,10.29,Ontario,Binders and Binder Accessories,0.39
@@ -1891,7 +1891,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1890,Panasonic KX-P1150 Dot Matrix Printer,Pauline Chand,28451,1054.93,145.45,17.85,Ontario,Office Machines,0.56
 1891,"Master Caster Door Stop, Gray",Jennifer Halladay,28482,-27.39,5.08,3.63,Ontario,Office Furnishings,0.51
 1892,Xerox 1927,Jennifer Halladay,28482,-167.92,4.28,6.72,Ontario,Paper,0.4
-1893,Wilson Jones 1" Hanging DublLock® Ring Binders,Pauline Chand,28642,14.48,5.28,2.99,Ontario,Binders and Binder Accessories,0.37
+1893,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Pauline Chand,28642,14.48,5.28,2.99,Ontario,Binders and Binder Accessories,0.37
 1894,iDENi80s,Pauline Chand,28642,-52.7,65.99,19.99,Ontario,Telephones and Communication,0.59
 1895,Xerox 1933,Anna Gayman,29380,1.73,12.28,4.86,Ontario,Paper,0.38
 1896,Xerox 1940,Pauline Chand,32036,45.76,54.96,10.75,Ontario,Paper,0.36
@@ -1903,7 +1903,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1902,Coloredge Poster Frame,Ritsa Hightower,34209,165.9,14.2,5.3,Ontario,Office Furnishings,0.46
 1903,Staples Colored Bar Computer Paper,Ritsa Hightower,34209,437.61,35.44,4.92,Ontario,Paper,0.38
 1904,Park Ridge™ Embossed Executive Business Envelopes,Daniel Raglin,36807,78.45,15.57,1.39,Ontario,Envelopes,0.38
-1905,Linden® 12" Wall Clock With Oak Frame,Nat Gilpin,37318,-138.54,33.98,19.99,Ontario,Office Furnishings,0.55
+1905,"Linden® 12"" Wall Clock With Oak Frame",Nat Gilpin,37318,-138.54,33.98,19.99,Ontario,Office Furnishings,0.55
 1906,Xerox 1949,Pauline Chand,38496,-43.18,4.98,4.72,Ontario,Paper,0.36
 1907,Adesso Programmable 142-Key Keyboard,Corinna Mitchell,41702,99.88,152.48,4,Ontario,Computer Peripherals,0.79
 1908,Xerox 1927,Corinna Mitchell,41702,-22.82,4.28,6.72,Ontario,Paper,0.4
@@ -1940,7 +1940,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 1939,KH 688,Philip Brown,3648,1382.45,195.99,4.2,Ontario,Telephones and Communication,0.57
 1940,Staples Vinyl Coated Paper Clips,Philip Brown,6246,11.72,3.93,0.99,Ontario,Rubber Bands,0.39
 1941,Okidata ML184 Turbo Dot Matrix Printers,Michael Nguyen,9028,3829.63,306.14,26.53,Ontario,Office Machines,0.56
-1942,Executive Impressions 8-1/2" Career Panel/Partition Cubicle Clock,Philip Brown,9478,29.98,10.4,5.4,Ontario,Office Furnishings,0.51
+1942,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",Philip Brown,9478,29.98,10.4,5.4,Ontario,Office Furnishings,0.51
 1943,Xerox 1962,Philip Brown,9478,-121.2,4.28,4.79,Ontario,Paper,0.4
 1944,Plastic Binding Combs,Lisa DeCherney,12323,-28.68,15.15,10.13,Ontario,Binders and Binder Accessories,0.38
 1945,"Eldon® Expressions™ Wood Desk Accessories, Oak",Lisa DeCherney,12323,14.19,7.38,5.21,Ontario,Office Furnishings,0.56
@@ -2068,14 +2068,14 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2067,i470,Erin Ashbrook,13479,-1.63,205.99,5.26,Ontario,Telephones and Communication,0.56
 2068,DMI Arturo Collection Mission-style Design Wood Chair,Alan Hwang,13633,-231.6,150.98,57.2,Ontario,Chairs & Chairmats,0.59
 2069,"Eldon Base for stackable storage shelf, platinum",Alan Hwang,13633,-1119.64,38.94,35,Ontario,Storage & Organization,0.8
-2070,#10- 4 1/8" x 9 1/2" Security-Tint Envelopes,Edward Becker,13735,117.38,7.64,1.39,Ontario,Envelopes,0.36
+2070,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Edward Becker,13735,117.38,7.64,1.39,Ontario,Envelopes,0.36
 2071,*Staples* Highlighting Markers,Andy Yotov,13861,5.03,4.84,0.71,Ontario,Pens & Art Supplies,0.52
 2072,"Verbatim DVD-RAM, 5.2GB, Rewritable, Type 1, DS",Frank Hawley,13892,531.47,29.89,1.99,Ontario,Computer Peripherals,0.5
 2073,Acco D-Ring Binder w/DublLock®,Edward Becker,14023,241.08,21.38,2.99,Ontario,Binders and Binder Accessories,0.36
 2074,Xerox 1948,Edward Becker,14023,40.61,9.99,5.12,Ontario,Paper,0.4
 2075,Eldon® 200 Class™ Desk Accessories,Jim Mitchum,14115,-38.38,6.28,5.41,Ontario,Office Furnishings,0.53
 2076,3395,Jim Mitchum,14115,591.91,85.99,10.78,Ontario,Telephones and Communication,0.58
-2077,Avery Trapezoid Extra Heavy Duty 4" Binders,Theresa Coyne,14147,107.32,41.94,2.99,Ontario,Binders and Binder Accessories,0.35
+2077,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Theresa Coyne,14147,107.32,41.94,2.99,Ontario,Binders and Binder Accessories,0.35
 2078,Xerox 1927,Theresa Coyne,14147,-69.34,4.28,6.72,Ontario,Paper,0.4
 2079,Xerox 1953,Theresa Coyne,14147,-148.87,4.28,5.74,Ontario,Paper,0.4
 2080,Canon MP41DH Printing Calculator,Frank Hawley,14211,1046.69,150.98,13.99,Ontario,Office Machines,0.38
@@ -2127,7 +2127,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2126,Economy Binders,George Ashbrook,17986,-15.09,2.08,1.49,Ontario,Binders and Binder Accessories,0.36
 2127,"Wirebound Four 2-3/4 x 5 Forms per Page, 400 Sets per Book",Henry MacAllister,18112,22.8,6.45,1.34,Ontario,Paper,0.36
 2128,Hoover Portapower™ Portable Vacuum,Naresj Patel,18178,-1987.49,4.48,49,Ontario,Appliances,0.6
-2129,Executive Impressions 12" Wall Clock,Naresj Patel,18178,49.85,17.67,8.99,Ontario,Office Furnishings,0.47
+2129,"Executive Impressions 12"" Wall Clock",Naresj Patel,18178,49.85,17.67,8.99,Ontario,Office Furnishings,0.47
 2130,U.S. Robotics 56K Internet Call Modem,Anna Haberlin,18182,1049.45,99.99,19.99,Ontario,Computer Peripherals,0.5
 2131,Eldon Cleatmat® Chair Mats for Medium Pile Carpets,Anna Haberlin,18182,-1363.12,55.5,52.2,Ontario,Office Furnishings,0.72
 2132,Fellowes Bases and Tops For Staxonsteel®/High-Stak® Systems,Anna Haberlin,18182,-18.45,33.29,8.74,Ontario,Storage & Organization,0.61
@@ -2156,7 +2156,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2155,GBC Wire Binding Strips,Duane Huffman,20261,67.11,31.74,12.62,Ontario,Binders and Binder Accessories,0.37
 2156,"Telephone Message Books with Fax/Mobile Section, 5 1/2"" x 3 3/16""",Duane Huffman,20261,81.91,6.35,1.02,Ontario,Paper,0.39
 2157,Talkabout T8367,Duane Huffman,20261,168.24,65.99,8.99,Ontario,Telephones and Communication,0.56
-2158,Executive Impressions 13" Clairmont Wall Clock,Magdelene Morse,20453,152.79,19.23,6.15,Ontario,Office Furnishings,0.44
+2158,"Executive Impressions 13"" Clairmont Wall Clock",Magdelene Morse,20453,152.79,19.23,6.15,Ontario,Office Furnishings,0.44
 2159,Accessory34,Magdelene Morse,20453,137.59,85.99,0.99,Ontario,Telephones and Communication,0.55
 2160,Keytronic 105-Key Spanish Keyboard,Arthur Wiediger,20614,326.25,73.98,12.14,Ontario,Computer Peripherals,0.67
 2161,Avery 491,Gary Mitchum,20709,-2.06,4.13,0.99,Ontario,Labels,0.39
@@ -2172,8 +2172,8 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2171,Staples Bulk Pack Metal Binder Clips,Alan Hwang,22181,84.1,6.08,1.82,Ontario,Rubber Bands,0.35
 2172,Adesso Programmable 142-Key Keyboard,Edward Nazzal,22272,14.85,152.48,4,Ontario,Computer Peripherals,0.79
 2173,Imation DVD-RAM discs,Edward Nazzal,22272,342.41,35.41,1.99,Ontario,Computer Peripherals,0.43
-2174,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Candace McMahon,22373,-86.34,8.74,8.29,Ontario,Envelopes,0.38
-2175,Avery® Durable Plastic 1" Binders,Allen Golden,22434,-14.69,4.54,5.83,Ontario,Binders and Binder Accessories,0.36
+2174,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Candace McMahon,22373,-86.34,8.74,8.29,Ontario,Envelopes,0.38
+2175,"Avery® Durable Plastic 1"" Binders",Allen Golden,22434,-14.69,4.54,5.83,Ontario,Binders and Binder Accessories,0.36
 2176,Newell 337,Allen Golden,22434,-92.29,3.28,3.97,Ontario,Pens & Art Supplies,0.56
 2177,Fellowes Binding Cases,Erin Creighton,22849,2.73,11.7,5.63,Ontario,Binders and Binder Accessories,0.4
 2178,Prang Drawing Pencil Set,Erin Creighton,22849,10.59,2.78,1.34,Ontario,Pens & Art Supplies,0.45
@@ -2211,14 +2211,14 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2210,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Brian Stugart,25095,148.3,39.98,9.83,Ontario,Envelopes,0.4
 2211,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,Brian Stugart,25095,-167.83,115.99,56.14,Ontario,Office Machines,0.4
 2212,GBC Standard Plastic Binding Systems Combs,Christine Phan,25254,-29.36,8.85,5.6,Ontario,Binders and Binder Accessories,0.36
-2213,Black Print Carbonless 8 1/2" x 8 1/4" Rapid Memo Book,Matt Hagelstein,25542,-18.66,7.28,4.23,Ontario,Paper,0.39
+2213,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",Matt Hagelstein,25542,-18.66,7.28,4.23,Ontario,Paper,0.39
 2214,Xerox 1881,Frank Carlisle,25569,-14.03,12.28,6.47,Ontario,Paper,0.38
 2215,1726 Digital Answering Machine,George Bell,25863,-10.85,20.99,4.81,Ontario,Telephones and Communication,0.58
 2216,GBC Durable Plastic Covers,Candace McMahon,25895,-93.43,19.35,12.79,Ontario,Binders and Binder Accessories,0.39
-2217,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Edward Nazzal,26050,-163.13,8.74,8.29,Ontario,Envelopes,0.38
+2217,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Edward Nazzal,26050,-163.13,8.74,8.29,Ontario,Envelopes,0.38
 2218,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",George Bell,26145,-51.2,4.91,5.68,Ontario,Binders and Binder Accessories,0.36
 2219,"Eldon® Expressions™ Wood and Plastic Desk Accessories, Oak",George Bell,26145,-362.11,9.98,12.52,Ontario,Office Furnishings,0.57
-2220,Seth Thomas 14" Putty-Colored Wall Clock,George Bell,26145,153.5,29.34,7.87,Ontario,Office Furnishings,0.54
+2220,"Seth Thomas 14"" Putty-Colored Wall Clock",George Bell,26145,153.5,29.34,7.87,Ontario,Office Furnishings,0.54
 2221,Accessory23,Edward Nazzal,26279,-33.31,35.99,1.25,Ontario,Telephones and Communication,0.36
 2222,Storex DuraTech Recycled Plastic Frosted Binders,Edward Becker,26406,-134.3,4.24,5.41,Ontario,Binders and Binder Accessories,0.35
 2223,Ibico Presentation Index for Binding Systems,Candace McMahon,26535,-103.21,3.98,5.26,Ontario,Binders and Binder Accessories,0.38
@@ -2229,7 +2229,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2228,Canon MP100DHII Printing Calculator,Frank Carlisle,27077,321.25,140.99,13.99,Ontario,Office Machines,0.37
 2229,Xerox 191,Alan Hwang,27236,84.3,19.98,5.86,Ontario,Paper,0.38
 2230,"80 Minute CD-R Spindle, 100/Pack - Staples",Darren Budd,27589,221.6,39.48,1.99,Ontario,Computer Peripherals,0.54
-2231,Executive Impressions 12" Wall Clock,Darren Budd,27589,69.97,17.67,8.99,Ontario,Office Furnishings,0.47
+2231,"Executive Impressions 12"" Wall Clock",Darren Budd,27589,69.97,17.67,8.99,Ontario,Office Furnishings,0.47
 2232,Global Adaptabilities™ Conference Tables,Darren Budd,27589,-18.64,1.88,1.49,Ontario,Tables,0.66
 2233,Staples Copy Paper (20Lb. and 84 Bright),Dave Hallsten,27681,-18.31,4.98,4.7,Ontario,Paper,0.38
 2234,Col-Erase® Pencils with Erasers,Dave Hallsten,27681,33.88,6.08,1.17,Ontario,Pens & Art Supplies,0.56
@@ -2242,7 +2242,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2241,Acme® Box Cutter Scissors,Bill Stewart,28805,-25.88,10.23,4.68,Ontario,"Scissors, Rulers and Trimmers",0.59
 2242,Eureka Disposable Bags for Sanitaire® Vibra Groomer I® Upright Vac,Ed Ludwig,28897,-180.26,4.06,6.89,Ontario,Appliances,0.6
 2243,"Tyvek Interoffice Envelopes, 9 1/2"" x 12 1/2"", 100/Box",Ed Ludwig,28897,151.24,60.98,19.99,Ontario,Envelopes,0.38
-2244,Executive Impressions 8-1/2" Career Panel/Partition Cubicle Clock,Gary Mitchum,28932,33.47,10.4,5.4,Ontario,Office Furnishings,0.51
+2244,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",Gary Mitchum,28932,33.47,10.4,5.4,Ontario,Office Furnishings,0.51
 2245,"Dixon My First Ticonderoga Pencil, #2",Gary Mitchum,28932,-12.59,5.85,2.27,Ontario,Pens & Art Supplies,0.56
 2246,SANFORD Major Accent™ Highlighters,Nat Carroll,29219,24.59,7.08,2.35,Ontario,Pens & Art Supplies,0.47
 2247,Canon BP1200DH 12-Digit Bubble Jet Printing Calculator,Linda Cazamias,29410,1929.58,120.97,7.11,Ontario,Office Machines,0.36
@@ -2265,7 +2265,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2264,"Cardinal Slant-D® Ring Binder, Heavy Gauge Vinyl",Gary Hansen,31495,39.5,8.69,2.99,Ontario,Binders and Binder Accessories,0.39
 2265,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Gary Hansen,31495,212.2,34.76,8.22,Ontario,Storage & Organization,0.57
 2266,"Sony MFD2HD Formatted Diskettes, 10/Pack",Joni Sundaresam,31523,-44.86,6.48,2.74,Ontario,Computer Peripherals,0.71
-2267,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Joni Sundaresam,31523,-58.76,8.74,8.29,Ontario,Envelopes,0.38
+2267,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Joni Sundaresam,31523,-58.76,8.74,8.29,Ontario,Envelopes,0.38
 2268,"Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel",Alan Hwang,31552,70.48,22.24,1.99,Ontario,Computer Peripherals,0.43
 2269,"Verbatim DVD-RAM, 5.2GB, Rewritable, Type 1, DS",Alan Hwang,31552,175.82,29.89,1.99,Ontario,Computer Peripherals,0.5
 2270,Westinghouse Clip-On Gooseneck Lamps,Duane Huffman,31877,-211.54,8.37,10.16,Ontario,Office Furnishings,0.59
@@ -2372,7 +2372,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2371,*Staples* Highlighting Markers,Ted Trevino,42246,-0.5,4.84,0.71,Ontario,Pens & Art Supplies,0.52
 2372,Xerox 1994,Tamara Dahlen,42465,-32.7,6.48,5.74,Ontario,Paper,0.37
 2373,Xerox 1936,Eileen Kiefer,42657,254.58,19.98,5.97,Ontario,Paper,0.38
-2374,Wilson Jones 1" Hanging DublLock® Ring Binders,Ted Trevino,42820,-2.85,5.28,2.99,Ontario,Binders and Binder Accessories,0.37
+2374,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Ted Trevino,42820,-2.85,5.28,2.99,Ontario,Binders and Binder Accessories,0.37
 2375,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",David Philippe,42848,-56.51,7.64,5.83,Ontario,Paper,0.36
 2376,Xerox 1891,James Lanier,43269,355,48.91,5.81,Ontario,Paper,0.38
 2377,GBC DocuBind P100 Manual Binding Machine,James Lanier,43269,1336.96,165.98,19.99,Ontario,Binders and Binder Accessories,0.4
@@ -2427,7 +2427,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2426,Sensible Storage WireTech Storage Systems,Eileen Kiefer,47301,-231.95,70.98,35,Ontario,Storage & Organization,0.8
 2427,Balt Solid Wood Rectangular Table,Philip Brown,47714,-690.21,105.49,41.64,Ontario,Tables,0.75
 2428,"Imation 3.5"" DS/HD IBM Formatted Diskettes, 10/Pack",Darren Budd,48003,-106.54,5.98,4.38,Ontario,Computer Peripherals,0.75
-2429,Executive Impressions 14" Two-Color Numerals Wall Clock,Darren Budd,48003,-69.05,6.48,9.68,Ontario,Office Furnishings,0.44
+2429,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Darren Budd,48003,-69.05,6.48,9.68,Ontario,Office Furnishings,0.44
 2430,6162m,Ruben Ausman,48195,850.54,115.99,2.5,Ontario,Telephones and Communication,0.57
 2431,Accessory41,Ruben Ausman,48195,296.87,35.99,5.99,Ontario,Telephones and Communication,0.38
 2432,iDENi80s,Ruben Ausman,48195,47.28,65.99,19.99,Ontario,Telephones and Communication,0.59
@@ -2471,7 +2471,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2470,Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,Alan Hwang,52645,97.36,70.97,3.5,Ontario,Appliances,0.59
 2471,"Advantus Push Pins, Aluminum Head",Aimee Bixby,52711,-51.25,5.81,3.37,Ontario,Rubber Bands,0.54
 2472,Array® Memo Cubes,Lena Creighton,52896,2.76,5.18,2.04,Ontario,Paper,0.36
-2473,Bevis Round Bullnose 29" High Table Top,Lena Creighton,52896,-192.49,259.71,66.67,Ontario,Tables,0.65
+2473,"Bevis Round Bullnose 29"" High Table Top",Lena Creighton,52896,-192.49,259.71,66.67,Ontario,Tables,0.65
 2474,"Master Giant Foot® Doorstop, Safety Yellow",Eugene Hildebrand,52999,22.85,7.59,4,Ontario,Office Furnishings,0.42
 2475,"Black Print Carbonless Snap-Off® Rapid Letter, 8 1/2"" x 7""",Eugene Hildebrand,52999,98.86,9.11,2.15,Ontario,Paper,0.4
 2476,Xerox 1978,Eugene Hildebrand,52999,-21.19,5.78,5.67,Ontario,Paper,0.36
@@ -2512,7 +2512,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2511,"Metal Folding Chairs, Beige, 4/Carton",Darren Budd,57253,1.74,1.81,0.75,Ontario,Chairs & Chairmats,0.58
 2512,Hon 4700 Series Mobuis™ Mid-Back Task Chairs with Adjustable Arms,Darren Budd,57253,-1358.9,20.98,53.03,Ontario,Chairs & Chairmats,0.64
 2513,Telescoping Adjustable Floor Lamp,Darren Budd,57253,-335.24,279.48,35,Ontario,Office Furnishings,0.6
-2514,Iceberg OfficeWorks 42" Round Tables,Darren Budd,57253,-139.16,4.91,5.68,Ontario,Tables,0.7
+2514,"Iceberg OfficeWorks 42"" Round Tables",Darren Budd,57253,-139.16,4.91,5.68,Ontario,Tables,0.7
 2515,232,Darren Budd,57253,667.45,125.99,5.26,Ontario,Telephones and Communication,0.55
 2516,Presstex Flexible Ring Binders,George Ashbrook,57382,16.9,4.55,1.49,Ontario,Binders and Binder Accessories,0.35
 2517,"Staples #10 Laser & Inkjet Envelopes, 4 1/8"" x 9 1/2"", 100/Box",George Ashbrook,57382,20.14,9.78,5.76,Ontario,Envelopes,0.35
@@ -2537,7 +2537,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2536,M70,Edward Becker,59108,972.19,125.99,8.99,Ontario,Telephones and Communication,0.59
 2537,Fellowes Bankers Box™ Staxonsteel® Drawer File/Stacking System,Magdelene Morse,59589,122.42,64.98,6.88,Ontario,Storage & Organization,0.73
 2538,Belkin 8 Outlet Surge Protector,Jim Mitchum,59685,78.98,40.98,5.33,Ontario,Appliances,0.57
-2539,Tensor "Hersey Kiss" Styled Floor Lamp,Jim Mitchum,59685,-560.29,12.99,14.37,Ontario,Office Furnishings,0.73
+2539,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Jim Mitchum,59685,-560.29,12.99,14.37,Ontario,Office Furnishings,0.73
 2540,Plymouth Boxed Rubber Bands by Plymouth,Ed Ludwig,59845,3.02,4.71,0.7,Ontario,Rubber Bands,0.8
 2541,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",Ed Ludwig,59845,6.52,4.2,2.26,Ontario,Paper,0.36
 2542,Safco Industrial Wire Shelving,Michael Dominguez,134,-310.21,95.99,35,Ontario,Storage & Organization,
@@ -2596,7 +2596,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2595,Storex Dura Pro™ Binders,Matthew Clasen,18757,-37.8,5.94,9.92,Ontario,Binders and Binder Accessories,0.38
 2596,Newell 31,Nathan Gelder,19431,-5.54,4.13,1.17,Ontario,Pens & Art Supplies,0.57
 2597,Epson DFX-8500 Dot Matrix Printer,Maria Zettner,19584,-3971.06,2550.14,29.7,Ontario,Office Machines,0.57
-2598,Executive Impressions 14" Two-Color Numerals Wall Clock,Patrick O'Donnell,20262,185.04,22.72,8.99,Ontario,Office Furnishings,0.44
+2598,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Patrick O'Donnell,20262,185.04,22.72,8.99,Ontario,Office Furnishings,0.44
 2599,Global Commerce™ Series High-Back Swivel/Tilt Chairs,Sean Miller,20545,-163.58,284.98,69.55,Ontario,Chairs & Chairmats,0.6
 2600,Xerox 1919,Sean Miller,20545,554.95,40.99,5.86,Ontario,Paper,0.36
 2601,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Sean Miller,20545,-1754.39,71.37,69,Ontario,Tables,0.68
@@ -2638,7 +2638,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2637,TimeportP7382,Shahid Collister,31873,2539.46,205.99,8.99,Ontario,Telephones and Communication,0.56
 2638,Xerox 1928,Shahid Collister,31873,-125.29,5.28,6.26,Ontario,Paper,0.4
 2639,Acco® Hot Clips™ Clips to Go,Victoria Wilson,32000,24.95,3.29,1.35,Ontario,Rubber Bands,0.4
-2640,Chromcraft Bull-Nose Wood 48" x 96" Rectangular Conference Tables,Victoria Wilson,32000,-1096.78,550.98,147.12,Ontario,Tables,0.8
+2640,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Victoria Wilson,32000,-1096.78,550.98,147.12,Ontario,Tables,0.8
 2641,Lock-Up Easel 'Spel-Binder',Victoria Wilson,32737,116.8,28.53,1.49,Ontario,Binders and Binder Accessories,0.38
 2642,Staples 6 Outlet Surge,Thomas Boland,35012,-16.38,11.97,4.98,Ontario,Appliances,0.58
 2643,T65,Thomas Boland,35012,-165.95,195.99,4.2,Ontario,Telephones and Communication,0.56
@@ -2726,7 +2726,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2725,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",Eric Barreto,9062,1193.19,99.23,8.99,Newfoundland,Office Furnishings,0.35
 2726,Lexmark Z55se Color Inkjet Printer,Hunter Lopez,9602,600.93,90.97,28,Newfoundland,Office Machines,0.38
 2727,Sauder Camden County Collection Library,Hunter Lopez,9602,-399.67,114.98,51.42,Newfoundland,Bookcases,0.65
-2728,Linden® 12" Wall Clock With Oak Frame,Barry Franz,10209,-12,33.98,19.99,Newfoundland,Office Furnishings,0.55
+2728,"Linden® 12"" Wall Clock With Oak Frame",Barry Franz,10209,-12,33.98,19.99,Newfoundland,Office Furnishings,0.55
 2729,Lexmark Z54se Color Inkjet Printer,Barry Franz,10338,15.36,90.97,14,Newfoundland,Office Machines,0.36
 2730,Eldon Econocleat® Chair Mats for Low Pile Carpets,Craig Yedwab,10688,-200.84,41.47,34.2,Newfoundland,Office Furnishings,0.73
 2731,Lock-Up Easel 'Spel-Binder',Eric Barreto,11206,39.63,28.53,1.49,Newfoundland,Binders and Binder Accessories,0.38
@@ -2778,7 +2778,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2777,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Astrea Jones,43460,-17.6,8.04,8.94,Newfoundland,Binders and Binder Accessories,0.4
 2778,8260,Chris Cortes,43972,-62.33,65.99,8.99,Newfoundland,Telephones and Communication,0.58
 2779,Staples Colored Interoffice Envelopes,Dan Campbell,44000,-19.1,30.98,19.51,Newfoundland,Envelopes,0.36
-2780,Tensor "Hersey Kiss" Styled Floor Lamp,Rick Duston,46177,-292.7,12.99,14.37,Newfoundland,Office Furnishings,0.73
+2780,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Rick Duston,46177,-292.7,12.99,14.37,Newfoundland,Office Furnishings,0.73
 2781,"Bush Westfield Collection Bookcases, Fully Assembled",Corey Roper,48226,-108.8,100.98,35.84,Newfoundland,Bookcases,0.62
 2782,Xerox 1964,Amy Cox,48455,76.63,22.84,11.54,Newfoundland,Paper,0.39
 2783,Xerox 1880,Sara Luxemburg,48929,-48.91,35.44,19.99,Newfoundland,Paper,0.38
@@ -2797,11 +2797,11 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2796,"Staples #10 Laser & Inkjet Envelopes, 4 1/8"" x 9 1/2"", 100/Box",Elpida Rittenbach,6179,197.76,9.78,1.39,Nova Scotia,Envelopes,0.39
 2797,5125,Elpida Rittenbach,6179,234.61,200.99,8.08,Nova Scotia,Telephones and Communication,0.59
 2798,AT&T 2230 Dual Handset Phone With Caller ID/Call Waiting,David Wiener,11747,-261.55,99.99,19.99,Nova Scotia,Office Machines,0.52
-2799,Avery Trapezoid Extra Heavy Duty 4" Binders,David Wiener,11877,320.07,41.94,2.99,Nova Scotia,Binders and Binder Accessories,0.35
+2799,"Avery Trapezoid Extra Heavy Duty 4"" Binders",David Wiener,11877,320.07,41.94,2.99,Nova Scotia,Binders and Binder Accessories,0.35
 2800,"While You Were Out Pads, 50 per Pad, 4 x 5 1/4, Green Cycle",David Wiener,11877,33.59,4.73,1.52,Nova Scotia,Paper,0.36
 2801,SAFCO Folding Chair Trolley,Elpida Rittenbach,15271,589.38,128.24,12.65,Nova Scotia,Chairs & Chairmats,
 2802,Accessory13,Elpida Rittenbach,15271,-77.9,35.99,1.25,Nova Scotia,Telephones and Communication,0.57
-2803,Executive Impressions 12" Wall Clock,David Wiener,22561,-27.78,17.67,8.99,Nova Scotia,Office Furnishings,0.47
+2803,"Executive Impressions 12"" Wall Clock",David Wiener,22561,-27.78,17.67,8.99,Nova Scotia,Office Furnishings,0.47
 2804,Staples 4 Outlet Surge Protector,David Wiener,22561,-19.77,8.67,3.5,Nova Scotia,Appliances,0.58
 2805,U.S. Robotics 56K Internet Call Modem,David Wiener,22561,-245.09,99.99,19.99,Nova Scotia,Computer Peripherals,0.5
 2806,Ames Color-File® Green Diamond Border X-ray Mailers,Elpida Rittenbach,25860,239.94,83.98,5.01,Nova Scotia,Envelopes,0.38
@@ -2826,14 +2826,14 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2825,Belkin 105-Key Black Keyboard,Barry Weirich,6116,-72.23,19.98,4,Nova Scotia,Computer Peripherals,0.68
 2826,Fellowes Black Plastic Comb Bindings,Natalie Webber,6695,-279.93,5.81,8.49,Nova Scotia,Binders and Binder Accessories,0.39
 2827,Hon Comfortask® Task/Swivel Chairs,Damala Kotsonis,6885,-181.27,113.98,30,Nova Scotia,Chairs & Chairmats,0.69
-2828,Acco Recycled 2" Capacity Laser Printer Hanging Data Binders,Karen Carlisle,7458,-5.37,14.45,7.17,Nova Scotia,Binders and Binder Accessories,0.38
+2828,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Karen Carlisle,7458,-5.37,14.45,7.17,Nova Scotia,Binders and Binder Accessories,0.38
 2829,Micro Innovations 104 Keyboard,Karen Carlisle,7458,-165.74,10.97,6.5,Nova Scotia,Computer Peripherals,0.64
 2830,Xerox 1964,Natalie Webber,8807,-6.04,22.84,11.54,Nova Scotia,Paper,0.39
 2831,V8162,Katherine Murray,9024,583.75,65.99,2.79,Nova Scotia,Telephones and Communication,0.56
 2832,Fuji Slim Jewel Case CD-R,Hunter Lopez,9602,-24.87,2.12,1.99,Nova Scotia,Computer Peripherals,0.55
 2833,Hon 4700 Series Mobuis™ Mid-Back Task Chairs with Adjustable Arms,Eric Barreto,9894,103.83,355.98,58.92,Nova Scotia,Chairs & Chairmats,0.64
 2834,Hon 61000 Series Interactive Training Tables,Barry Franz,10338,33.99,44.43,46.59,Nova Scotia,Tables,0.67
-2835,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Fred McMath,11011,-129.86,8.74,8.29,Nova Scotia,Envelopes,0.38
+2835,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Fred McMath,11011,-129.86,8.74,8.29,Nova Scotia,Envelopes,0.38
 2836,Newell 337,Berenike Kampe,11271,-115.8,3.28,3.97,Nova Scotia,Pens & Art Supplies,0.56
 2837,Deluxe Rollaway Locking File with Drawer,Dean Percer,12005,-164.59,415.88,11.37,Nova Scotia,Storage & Organization,0.57
 2838,GBC DocuBind 200 Manual Binding Machine,Muhammed Lee,13284,3858.28,420.98,19.99,Nova Scotia,Binders and Binder Accessories,0.35
@@ -2891,7 +2891,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2890,Rogers® Profile Extra Capacity Storage Tub,Troy Staebel,33699,-114.2,16.74,7.04,Nova Scotia,Storage & Organization,0.81
 2891,"Wirebound Four 2-3/4 x 5 Forms per Page, 400 Sets per Book",Troy Staebel,33699,70.39,6.45,1.34,Nova Scotia,Paper,0.36
 2892,Panasonic KX-P3200 Dot Matrix Printer,Bradley Drucker,33797,653.68,297.64,14.7,Nova Scotia,Office Machines,0.57
-2893,Tensor "Hersey Kiss" Styled Floor Lamp,Bradley Drucker,33797,-449.04,12.99,14.37,Nova Scotia,Office Furnishings,0.73
+2893,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Bradley Drucker,33797,-449.04,12.99,14.37,Nova Scotia,Office Furnishings,0.73
 2894,Holmes Odor Grabber,Bradley Drucker,33797,-22.37,14.42,6.75,Nova Scotia,Appliances,0.52
 2895,Accessory39,Mark Haberlin,33958,-120.05,20.99,3.3,Nova Scotia,Telephones and Communication,0.81
 2896,"BOSTON® Ranger® #55 Pencil Sharpener, Black",Mark Haberlin,33958,5.56,25.99,5.37,Nova Scotia,Pens & Art Supplies,0.56
@@ -2901,7 +2901,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2900,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,Brad Thomas,37287,2.37,6.64,4.95,Nova Scotia,Office Furnishings,0.37
 2901,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Mark Packer,37443,840.55,59.98,3.99,Nova Scotia,Appliances,0.57
 2902,Avery 501,Eleni McCrary,37792,82.49,3.69,0.5,Nova Scotia,Labels,0.38
-2903,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Eleni McCrary,37829,-84.69,8.74,8.29,Nova Scotia,Envelopes,0.38
+2903,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Eleni McCrary,37829,-84.69,8.74,8.29,Nova Scotia,Envelopes,0.38
 2904,Zoom V.92 USB External Faxmodem,Ann Blume,38087,-76.89,49.99,19.99,Nova Scotia,Computer Peripherals,0.41
 2905,Accessory25,Brendan Murry,38341,122.29,20.99,0.99,Nova Scotia,Telephones and Communication,0.57
 2906,Tennsco Regal Shelving Units,Chuck Sachs,38599,-741.81,101.41,35,Nova Scotia,Storage & Organization,0.82
@@ -2938,7 +2938,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 2937,Hon GuestStacker Chair,Deborah Brumfield,50471,1358.53,226.67,28.16,Nova Scotia,Chairs & Chairmats,0.59
 2938,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,Eleni McCrary,51203,3146.22,550.98,45.7,Nova Scotia,Tables,0.71
 2939,"Master Giant Foot® Doorstop, Safety Yellow",Eleni McCrary,51233,20.12,7.59,4,Nova Scotia,Office Furnishings,0.42
-2940,Acco Recycled 2" Capacity Laser Printer Hanging Data Binders,Alyssa Tate,52195,-2.83,14.45,7.17,Nova Scotia,Binders and Binder Accessories,0.38
+2940,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Alyssa Tate,52195,-2.83,14.45,7.17,Nova Scotia,Binders and Binder Accessories,0.38
 2941,GBC Imprintable Covers,Michael Kennedy,53123,14,10.98,5.14,Nova Scotia,Binders and Binder Accessories,0.36
 2942,"Wilson Jones Hanging View Binder, White, 1""",Marc Crier,54533,-42.72,7.1,6.05,Nova Scotia,Binders and Binder Accessories,0.39
 2943,Crayola Colored Pencils,Bobby Elias,55139,9.32,3.28,0.98,Nova Scotia,Pens & Art Supplies,0.52
@@ -3003,13 +3003,13 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3002,Unpadded Memo Slips,Astrea Jones,18951,-16.27,3.98,2.97,Nova Scotia,Paper,0.35
 3003,Accessory27,Astrea Jones,18951,-169.74,35.99,5,Nova Scotia,Telephones and Communication,0.85
 3004,Storex DuraTech Recycled Plastic Frosted Binders,Fred McMath,19174,-151.42,4.24,5.41,Nova Scotia,Binders and Binder Accessories,0.35
-3005,Executive Impressions 14" Two-Color Numerals Wall Clock,Chuck Sachs,20098,87.66,22.72,8.99,Nova Scotia,Office Furnishings,0.44
+3005,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Chuck Sachs,20098,87.66,22.72,8.99,Nova Scotia,Office Furnishings,0.44
 3006,Super Decoflex Portable Personal File,Chuck Sachs,21319,-40.94,14.98,7.69,Nova Scotia,Storage & Organization,0.57
 3007,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",Chuck Sachs,21319,-174.94,23.99,15.68,Nova Scotia,Office Furnishings,0.62
 3008,Panasonic KX-P1150 Dot Matrix Printer,Eric Barreto,22115,-283.94,145.45,17.85,Nova Scotia,Office Machines,0.56
 3009,"Sanford Colorific Colored Pencils, 12/Box",Bobby Trafton,22149,-1.62,2.88,1.01,Nova Scotia,Pens & Art Supplies,0.55
 3010,Astroparche® Fine Business Paper,Bill Tyler,22338,-62.97,5.28,5.06,Nova Scotia,Paper,0.37
-3011,Howard Miller 16" Diameter Gallery Wall Clock,Bill Shonely,22627,614.03,63.94,14.48,Nova Scotia,Office Furnishings,0.46
+3011,"Howard Miller 16"" Diameter Gallery Wall Clock",Bill Shonely,22627,614.03,63.94,14.48,Nova Scotia,Office Furnishings,0.46
 3012,"Staples Vinyl Coated Paper Clips, 800/Box",Craig Yedwab,22820,21.49,7.89,2.82,Nova Scotia,Rubber Bands,0.4
 3013,BASF Silver 74 Minute CD-R,Bradley Talbott,22880,-20.68,1.7,1.99,Nova Scotia,Computer Peripherals,0.51
 3014,Acme Galleria® Hot Forged Steel Scissors with Colored Handles,Jay Fine,23078,-86.43,15.73,7.42,Nova Scotia,"Scissors, Rulers and Trimmers",0.56
@@ -3050,7 +3050,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3049,StarTAC 7760,Chris Cortes,39842,224.86,65.99,3.99,Nova Scotia,Telephones and Communication,0.59
 3050,Tenex B1-RE Series Chair Mats for Low Pile Carpets,Mark Packer,40005,244.45,45.98,4.8,Nova Scotia,Office Furnishings,0.68
 3051,Newell 310,Julie Kriz,40704,-2.06,1.76,0.7,Nova Scotia,Pens & Art Supplies,0.56
-3052,Avery Trapezoid Extra Heavy Duty 4" Binders,Fred McMath,41383,620.07,41.94,2.99,Nova Scotia,Binders and Binder Accessories,0.35
+3052,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Fred McMath,41383,620.07,41.94,2.99,Nova Scotia,Binders and Binder Accessories,0.35
 3053,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Debra Catini,41415,-20.16,7.64,5.83,Nova Scotia,Paper,0.36
 3054,"Global Leather & Oak Executive Chair, Burgundy",Sylvia Foulston,41825,-1303.6,150.89,60.2,Nova Scotia,Chairs & Chairmats,0.77
 3055,DAX Solid Wood Frames,Chuck Sachs,41826,40.63,9.77,6.02,Nova Scotia,Office Furnishings,0.48
@@ -3138,7 +3138,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3137,Sanford 52201 APSCO Electric Pencil Sharpener,Valerie Mitchum,11650,146.24,40.97,8.99,Quebec,Pens & Art Supplies,0.59
 3138,"Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel",Dave Hallsten,12837,433.59,22.24,1.99,Quebec,Computer Peripherals,0.43
 3139,Durable Pressboard Binders,Vivek Gonzalez,13347,22.84,3.8,1.49,Quebec,Binders and Binder Accessories,0.38
-3140,Bevis Round Bullnose 29" High Table Top,Vivian Mathis,13381,-627.64,259.71,66.67,Quebec,Tables,0.65
+3140,"Bevis Round Bullnose 29"" High Table Top",Vivian Mathis,13381,-627.64,259.71,66.67,Quebec,Tables,0.65
 3141,"IBM Active Response Keyboard, Black",Bradley Nguyen,13634,104.51,39.98,7.12,Quebec,Computer Peripherals,0.67
 3142,Staples Brown Kraft Recycled Clasp Envelopes,Bradley Nguyen,13634,-55.61,5.58,5.3,Quebec,Envelopes,0.35
 3143,Safco Industrial Wire Shelving,Matt Collister,13729,-342.91,95.99,35,Quebec,Storage & Organization,
@@ -3179,7 +3179,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3137,Sanford 52201 APSCO Electric Pencil Sharpener,Valerie Mitchum,11650,146.24,40.97,8.99,Quebec,Pens & Art Supplies,0.59
 3138,"Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel",Dave Hallsten,12837,433.59,22.24,1.99,Quebec,Computer Peripherals,0.43
 3139,Durable Pressboard Binders,Vivek Gonzalez,13347,22.84,3.8,1.49,Quebec,Binders and Binder Accessories,0.38
-3140,Bevis Round Bullnose 29" High Table Top,Vivian Mathis,13381,-627.64,259.71,66.67,Quebec,Tables,0.65
+3140,"Bevis Round Bullnose 29"" High Table Top",Vivian Mathis,13381,-627.64,259.71,66.67,Quebec,Tables,0.65
 3141,"IBM Active Response Keyboard, Black",Bradley Nguyen,13634,104.51,39.98,7.12,Quebec,Computer Peripherals,0.67
 3142,Staples Brown Kraft Recycled Clasp Envelopes,Bradley Nguyen,13634,-55.61,5.58,5.3,Quebec,Envelopes,0.35
 3143,Safco Industrial Wire Shelving,Matt Collister,13729,-342.91,95.99,35,Quebec,Storage & Organization,
@@ -3209,9 +3209,9 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3167,Lock-Up Easel 'Spel-Binder',Vivian Mathis,25249,382.94,28.53,1.49,Quebec,Binders and Binder Accessories,0.38
 3168,Dixon Ticonderoga Core-Lock Colored Pencils,Matt Collister,26948,38.6,9.11,2.25,Quebec,Pens & Art Supplies,0.52
 3169,Hunt Boston® Vacuum Mount KS Pencil Sharpener,Ralph Arnett,27232,30.21,34.99,7.73,Quebec,Pens & Art Supplies,0.59
-3170,Chromcraft 48" x 96" Racetrack Double Pedestal Table,Michelle Tran,27622,-774.89,320.64,43.57,Quebec,Tables,0.63
+3170,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Michelle Tran,27622,-774.89,320.64,43.57,Quebec,Tables,0.63
 3171,"Black Print Carbonless Snap-Off® Rapid Letter, 8 1/2"" x 7""",Jason Klamczynski,28002,-3.64,9.11,2.15,Quebec,Paper,0.4
-3172,Seth Thomas 8 1/2" Cubicle Clock,Chad McGuire,28390,83.48,20.28,6.68,Quebec,Office Furnishings,0.53
+3172,"Seth Thomas 8 1/2"" Cubicle Clock",Chad McGuire,28390,83.48,20.28,6.68,Quebec,Office Furnishings,0.53
 3173,Global Troy™ Executive Leather Low-Back Tilter,Greg Tran,29223,8022.94,500.98,26,Quebec,Chairs & Chairmats,0.6
 3174,Ibico Hi-Tech Manual Binding System,Sanjit Jacobs,29351,1784.04,304.99,19.99,Quebec,Binders and Binder Accessories,0.4
 3175,Presstex Flexible Ring Binders,Scott Cohen,29506,59.7,4.55,1.49,Quebec,Binders and Binder Accessories,0.35
@@ -3223,7 +3223,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3181,Storex DuraTech Recycled Plastic Frosted Binders,Sanjit Jacobs,31616,-156.41,4.24,5.41,Quebec,Binders and Binder Accessories,0.35
 3182,Avery 481,Sanjit Jacobs,31616,36.96,3.08,0.99,Quebec,Labels,0.37
 3223,Eldon Jumbo ProFile™ Portable File Boxes Graphite/Black,Barry Gonzalez,43526,-43.22,15.31,8.78,Quebec,Storage & Organization,0.57
-3224,Executive Impressions 12" Wall Clock,Gary McGarr,44134,50.04,17.67,8.99,Quebec,Office Furnishings,0.47
+3224,"Executive Impressions 12"" Wall Clock",Gary McGarr,44134,50.04,17.67,8.99,Quebec,Office Furnishings,0.47
 3225,3390,Cynthia Delaney,44196,-83.47,65.99,5.31,Quebec,Telephones and Communication,0.57
 3226,Hon Rectangular Conference Tables,Cynthia Delaney,44358,547.04,227.55,32.48,Quebec,Tables,0.68
 3227,Xerox 1940,Vivek Sundaresam,44480,448.24,54.96,10.75,Quebec,Paper,0.36
@@ -3318,7 +3318,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3316,Okidata ML184 Turbo Dot Matrix Printers,Jennifer Patt,57894,2852.94,306.14,26.53,Quebec,Office Machines,0.56
 3317,Hon Every-Day® Chair Series Swivel Task Chairs,Dianna Wilson,58599,45.54,120.98,30,Quebec,Chairs & Chairmats,0.64
 3318,Bell Sonecor JB700 Caller ID,Emily Phan,132,-86.2,7.99,5.03,Quebec,Telephones and Communication,0.6
-3319,Barricks 18" x 48" Non-Folding Utility Table with Bottom Storage Shelf,Karl Brown,1191,-243.6,100.8,60,Quebec,Tables,0.59
+3319,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",Karl Brown,1191,-243.6,100.8,60,Quebec,Tables,0.59
 3320,Advantus Rolling Storage Box,Noel Staavos,1444,24.33,17.15,4.96,Quebec,Storage & Organization,0.58
 3321,Xerox 1978,Katherine Murray,1985,-7.96,5.78,5.67,Quebec,Paper,0.36
 3322,"Tenex Personal Project File with Scoop Front Design, Black",Paul Knutson,1988,-16.99,13.48,4.51,Quebec,Storage & Organization,0.59
@@ -3340,7 +3340,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3338,"Verbatim DVD-RAM, 9.4GB, Rewritable, Type 1, DS, DataLife Plus",Debra Catini,7297,-71.83,45.19,1.99,Quebec,Computer Peripherals,0.55
 3339,Universal Premium White Copier/Laser Paper (20Lb. and 87 Bright),Carlos Meador,7938,-86.73,5.98,7.15,Quebec,Paper,0.36
 3340,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",Debra Catini,8065,379.28,60.65,12.23,Quebec,Office Furnishings,0.64
-3341,#10-4 1/8" x 9 1/2" Premium Diagonal Seam Envelopes,Ellis Ballard,8292,130.04,15.74,1.39,Quebec,Envelopes,0.4
+3341,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",Ellis Ballard,8292,130.04,15.74,1.39,Quebec,Envelopes,0.4
 3342,"Acco Six-Outlet Power Strip, 4' Cord Length",Fred McMath,8513,-9.29,8.62,4.5,Quebec,Appliances,0.59
 3343,Microsoft Office Keyboard,Katherine Murray,9024,-9.3,40.98,6.5,Quebec,Computer Peripherals,0.64
 3344,Staples® General Use 3-Ring Binders,Andy Reiter,9635,-2.91,1.88,1.49,Quebec,Binders and Binder Accessories,0.37
@@ -3360,7 +3360,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3358,"Imation 3.5, DISKETTE 44766 HGHLD3.52HD/FM, 10/Pack",Pierre Wener,13572,-43.71,5.02,5.14,Quebec,Computer Peripherals,0.79
 3359,Spiral Phone Message Books with Labels by Adams,Tom Prescott,13731,6.79,4.48,1.22,Quebec,Paper,0.36
 3360,Eureka The Boss® Cordless Rechargeable Stick Vac,Paul Lucas,14112,-25.76,50.98,13.66,Quebec,Appliances,0.58
-3361,Rush Hierlooms Collection 1" Thick Stackable Bookcases,Dave Poirier,14114,538.52,170.98,35.89,Quebec,Bookcases,0.66
+3361,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",Dave Poirier,14114,538.52,170.98,35.89,Quebec,Bookcases,0.66
 3362,DAX Cubicle Frames - 8x10,Dave Poirier,14114,-136.7,5.77,5.92,Quebec,Office Furnishings,0.55
 3363,"Boston Electric Pencil Sharpener, Model 1818, Charcoal Black",Erica Hernandez,15009,-7.8,28.15,8.99,Quebec,Pens & Art Supplies,0.57
 3364,Global Commerce™ Series High-Back Swivel/Tilt Chairs,Benjamin Venier,15399,-51.28,284.98,69.55,Quebec,Chairs & Chairmats,0.6
@@ -3408,7 +3408,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3406,Xerox 1981,Bobby Trafton,29349,-101.68,5.28,5.57,Quebec,Paper,0.4
 3407,Ibico Laser Imprintable Binding System Covers,Eric Barreto,29350,592.53,52.4,16.11,Quebec,Binders and Binder Accessories,0.39
 3408,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",Eric Barreto,29350,232.8,36.55,13.89,Quebec,Pens & Art Supplies,0.41
-3409,Chromcraft 48" x 96" Racetrack Double Pedestal Table,Katrina Willman,29473,-774.89,320.64,29.2,Quebec,Tables,0.66
+3409,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Katrina Willman,29473,-774.89,320.64,29.2,Quebec,Tables,0.66
 3410,Canon PC940 Copier,Giulietta Dortch,30023,6463.34,449.99,49,Quebec,Copiers and Fax,0.38
 3411,Park Ridge™ Embossed Executive Business Envelopes,Aaron Hawkins,30150,193.12,15.57,1.39,Quebec,Envelopes,0.38
 3412,GBC Standard Therm-A-Bind Covers,Karl Brown,30151,33.37,24.92,12.98,Quebec,Binders and Binder Accessories,0.39
@@ -3535,13 +3535,13 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3533,Avery 493,Max Engle,4800,40.88,4.91,0.5,Quebec,Labels,0.36
 3534,Newell 309,Max Engle,4800,-4.28,11.55,2.36,Quebec,Pens & Art Supplies,0.55
 3535,Belkin Premiere Surge Master II 8-outlet surge protector,Fred Chung,5543,138.46,48.58,3.99,Quebec,Appliances,0.56
-3536,Speediset Carbonless Redi-Letter® 7" x 8 1/2",Fred Chung,5543,11.06,10.31,1.79,Quebec,Paper,0.38
+3536,"Speediset Carbonless Redi-Letter® 7"" x 8 1/2""",Fred Chung,5543,11.06,10.31,1.79,Quebec,Paper,0.38
 3537,*Staples* Letter Opener,Fred Chung,5543,-115.38,2.18,5,Quebec,"Scissors, Rulers and Trimmers",0.81
 3538,"Dixon My First Ticonderoga Pencil, #2",Dennis Kane,5636,-1.09,5.85,2.27,Quebec,Pens & Art Supplies,0.56
 3539,Lexmark Z25 Color Inkjet Printer,Phillip Flathmann,6050,-219.78,80.97,33.6,Quebec,Office Machines,0.37
 3540,Hon 2111 Invitation™ Series Corner Table,Phillip Flathmann,6050,-505.98,209.37,69,Quebec,Tables,0.79
 3541,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Mathew Reese,6148,-29.4,10.64,5.16,Quebec,Office Furnishings,0.57
-3542,Seth Thomas 8 1/2" Cubicle Clock,Mathew Reese,6148,116.37,20.28,6.68,Quebec,Office Furnishings,0.53
+3542,"Seth Thomas 8 1/2"" Cubicle Clock",Mathew Reese,6148,116.37,20.28,6.68,Quebec,Office Furnishings,0.53
 3543,Avery 498,Stuart Van,6727,8.47,2.89,0.5,Quebec,Labels,0.38
 3544,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,Brenda Bowman,7079,-416.7,280.98,57,Quebec,Chairs & Chairmats,0.78
 3545,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",Brenda Bowman,7079,-34.91,6.48,5.94,Quebec,Paper,0.37
@@ -3556,7 +3556,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3554,Motorola SB4200 Cable Modem,Mathew Reese,8162,1314.12,179.99,19.99,Quebec,Computer Peripherals,0.48
 3555,"Fellowes Strictly Business® Drawer File, Letter/Legal Size",Mathew Reese,8162,10.86,140.85,19.99,Quebec,Storage & Organization,0.73
 3556,Xerox 19,Mathew Reese,8870,117.39,30.98,5.09,Quebec,Paper,0.4
-3557,Howard Miller 13" Diameter Goldtone Round Wall Clock,Daniel Lacy,9253,563.09,46.94,6.77,Quebec,Office Furnishings,0.44
+3557,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",Daniel Lacy,9253,563.09,46.94,6.77,Quebec,Office Furnishings,0.44
 3558,Xerox 199,Dorris Love,10722,-27.44,4.28,5.68,Quebec,Paper,0.4
 3559,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",Ben Wallace,11527,2860.71,99.23,8.99,Quebec,Office Furnishings,0.35
 3560,i1000,Fred Chung,11683,335.08,65.99,5.99,Quebec,Telephones and Communication,0.58
@@ -3579,7 +3579,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3577,Self-Adhesive Address Labels for Typewriters by Universal,Ben Wallace,15264,33.05,7.31,0.49,Quebec,Labels,0.38
 3578,Xerox 1966,Logan Haushalter,16352,-43.43,6.48,6.65,Quebec,Paper,0.36
 3579,"Global Leather & Oak Executive Chair, Burgundy",Dennis Kane,16513,-423.2,150.89,60.2,Quebec,Chairs & Chairmats,0.77
-3580,Chromcraft 48" x 96" Racetrack Double Pedestal Table,Katherine Nockton,16582,-774.89,320.64,43.57,Quebec,Tables,0.63
+3580,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Katherine Nockton,16582,-774.89,320.64,43.57,Quebec,Tables,0.63
 3581,Hon Comfortask® Task/Swivel Chairs,Stewart Visinsky,16640,-227.51,113.98,30,Quebec,Chairs & Chairmats,0.69
 3582,OIC Thumb-Tacks,Jeremy Farry,16711,-1.72,1.14,0.7,Quebec,Rubber Bands,0.38
 3583,Array® Memo Cubes,Clay Ludtke,17218,22.54,5.18,2.04,Quebec,Paper,0.36
@@ -3591,7 +3591,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3589,Peel & Stick Add-On Corner Pockets,Dennis Kane,17765,-192.68,2.16,6.05,Quebec,Binders and Binder Accessories,0.37
 3590,"Computer Room Manger, 14""",Jasper Cacioppo,17958,359.53,32.48,7.09,Quebec,Office Furnishings,0.49
 3591,Avery 510,Theresa Swint,18375,31.64,3.75,0.5,Quebec,Labels,0.37
-3592,Elite 5" Scissors,Jasper Cacioppo,18532,-146.24,8.45,7.77,Quebec,"Scissors, Rulers and Trimmers",0.55
+3592,"Elite 5"" Scissors",Jasper Cacioppo,18532,-146.24,8.45,7.77,Quebec,"Scissors, Rulers and Trimmers",0.55
 3593,"Decoflex Hanging Personal Folder File, Blue",Jasper Cacioppo,18532,-131.59,15.42,10.68,Quebec,Storage & Organization,0.58
 3594,Avery 487,Phillip Flathmann,18627,0.71,3.69,0.5,Quebec,Labels,0.38
 3595,Belkin Premiere Surge Master II 8-outlet surge protector,Jeremy Lonsdale,18816,108.96,48.58,3.99,Quebec,Appliances,0.56
@@ -3709,7 +3709,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3707,Newell 326,Clay Ludtke,36034,-1.02,1.76,0.7,Quebec,Pens & Art Supplies,0.56
 3708,Brown Kraft Recycled Envelopes,Dionis Lloyd,36065,-63.98,16.98,12.39,Quebec,Envelopes,0.35
 3709,3M Organizer Strips,Anne Pryor,36355,-42.98,5.4,7.78,Quebec,Binders and Binder Accessories,0.37
-3710,Seth Thomas 8 1/2" Cubicle Clock,Anne Pryor,36355,65.49,20.28,6.68,Quebec,Office Furnishings,0.53
+3710,"Seth Thomas 8 1/2"" Cubicle Clock",Anne Pryor,36355,65.49,20.28,6.68,Quebec,Office Furnishings,0.53
 3711,Newell 309,Anne Pryor,36355,15.73,11.55,2.36,Quebec,Pens & Art Supplies,0.55
 3712,Kleencut® Forged Office Shears by Acme United Corporation,Anne Pryor,36355,-72.5,2.08,2.56,Quebec,"Scissors, Rulers and Trimmers",0.55
 3713,"Fellowes Internet Keyboard, Platinum",Dorris Love,36358,-159.25,30.42,8.65,Quebec,Computer Peripherals,0.74
@@ -3719,7 +3719,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3717,"Master Giant Foot® Doorstop, Safety Yellow",Laurel Elliston,36743,-10.61,7.59,4,Quebec,Office Furnishings,0.42
 3718,Zebra Zazzle Fluorescent Highlighters,Toby Carlisle,36864,7.23,6.08,0.91,Quebec,Pens & Art Supplies,0.51
 3719,Xerox 198,Carol Triggs,37188,-123.28,4.98,8.33,Quebec,Paper,0.38
-3720,Chromcraft Bull-Nose Wood 48" x 96" Rectangular Conference Tables,Ben Wallace,37414,-1331.55,550.98,64.59,Quebec,Tables,0.66
+3720,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Ben Wallace,37414,-1331.55,550.98,64.59,Quebec,Tables,0.66
 3721,"Avery 05222 Permanent Self-Adhesive File Folder Labels for Typewriters, on Rolls, White, 250/Roll",Aaron Smayling,37638,-140.54,4.13,6.89,Quebec,Labels,0.39
 3722,Gyration Ultra Cordless Optical Suite,Mathew Reese,37734,84.15,100.97,7.18,Quebec,Computer Peripherals,0.46
 3723,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Mathew Reese,37734,171.98,13.4,4.95,Quebec,Office Furnishings,0.37
@@ -3740,7 +3740,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3738,Riverleaf Stik-Withit® Designer Note Cubes®,Anne Pryor,39744,7.59,10.06,2.06,Quebec,Paper,0.39
 3739,252,Anne Pryor,39744,-107.99,65.99,5.92,Quebec,Telephones and Communication,0.55
 3740,CF 688,Anne Pryor,39744,1595.67,155.99,8.99,Quebec,Telephones and Communication,0.58
-3741,Iceberg OfficeWorks 42" Round Tables,Sheri Gordon,39878,-375.33,150.98,39.25,Quebec,Tables,0.75
+3741,"Iceberg OfficeWorks 42"" Round Tables",Sheri Gordon,39878,-375.33,150.98,39.25,Quebec,Tables,0.75
 3742,Avery 48,Sheri Gordon,39972,108.49,6.3,0.5,Quebec,Labels,0.39
 3743,Avery 501,Sheri Gordon,39972,62.73,3.69,0.5,Quebec,Labels,0.38
 3744,Wilson Jones Standard D-Ring Binders,Sheri Gordon,39972,-7.36,5.06,2.99,Quebec,Binders and Binder Accessories,0.38
@@ -3812,7 +3812,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3810,"Imation Printable White 80 Minute CD-R Spindle, 50/Pack",Justin MacKendrick,52039,840.46,40.98,1.99,Quebec,Computer Peripherals,0.44
 3811,Ibico EB-19 Dual Function Manual Binding System,Dennis Kane,52290,149.5,172.99,19.99,Quebec,Binders and Binder Accessories,0.39
 3812,T193,Dennis Kane,52290,185.94,65.99,4.99,Quebec,Telephones and Communication,0.57
-3813,Executive Impressions 14" Two-Color Numerals Wall Clock,Anne Pryor,52480,173.94,22.72,8.99,Quebec,Office Furnishings,0.44
+3813,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Anne Pryor,52480,173.94,22.72,8.99,Quebec,Office Furnishings,0.44
 3814,Gyration Ultra Professional Cordless Optical Suite,Dorris Love,52486,4160.88,300.97,7.18,Quebec,Computer Peripherals,0.48
 3815,Kensington 6 Outlet Guardian Standard Surge Protector,Bill Eplett,52519,-29.77,20.48,6.32,Quebec,Appliances,0.58
 3816,6120,Bill Eplett,53152,350.36,65.99,8.8,Quebec,Telephones and Communication,0.58
@@ -3821,7 +3821,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3819,Bretford CR4500 Series Slim Rectangular Table,Brenda Bowman,53248,-94.27,348.21,40.19,Quebec,Tables,0.62
 3820,Belkin MediaBoard 104- Keyboard,Brenda Bowman,53411,-57.53,27.48,4,Quebec,Computer Peripherals,0.75
 3821,Fiskars® Softgrip Scissors,Dorris Love,53668,-10.38,10.98,3.37,Quebec,"Scissors, Rulers and Trimmers",0.57
-3822,Avery® Durable Plastic 1" Binders,Shirley Schmidt,53730,-144.74,4.54,5.83,Quebec,Binders and Binder Accessories,0.36
+3822,"Avery® Durable Plastic 1"" Binders",Shirley Schmidt,53730,-144.74,4.54,5.83,Quebec,Binders and Binder Accessories,0.36
 3823,Xerox 1887,Jennifer Ferguson,54020,182.63,18.97,5.21,Quebec,Paper,0.37
 3824,Xerox 204,Jennifer Ferguson,54020,-140.48,6.48,6.86,Quebec,Paper,0.37
 3825,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Kimberly Carter,54368,-48.07,7.64,5.83,Quebec,Paper,0.36
@@ -3851,14 +3851,14 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3849,"Cardinal Slant-D® Ring Binder, Heavy Gauge Vinyl",Fred Chung,57025,2.29,8.69,2.99,Quebec,Binders and Binder Accessories,0.39
 3850,"Avery Flip-Chart Easel Binder, Black",Dionis Lloyd,57061,-80.11,22.38,15.1,Quebec,Binders and Binder Accessories,0.38
 3851,Avery 51,Dionis Lloyd,57061,6.22,6.3,0.5,Quebec,Labels,0.39
-3852,Seth Thomas 13 1/2" Wall Clock,Dionis Lloyd,57061,46.84,17.78,5.03,Quebec,Office Furnishings,0.54
+3852,"Seth Thomas 13 1/2"" Wall Clock",Dionis Lloyd,57061,46.84,17.78,5.03,Quebec,Office Furnishings,0.54
 3853,"Hunt BOSTON® Vista® Battery-Operated Pencil Sharpener, Black",Alan Haines,57217,-116.02,11.66,7.95,Quebec,Pens & Art Supplies,0.58
 3854,Security-Tint Envelopes,Sarah Brown,57504,160.02,7.64,1.39,Quebec,Envelopes,0.36
 3855,Boston 1799 Powerhouse™ Electric Pencil Sharpener,Mathew Reese,57666,304.2,25.98,4.08,Quebec,Pens & Art Supplies,0.57
 3856,"Tennsco Lockers, Gray",Mathew Reese,57666,-2111.36,20.98,53.03,Quebec,Storage & Organization,0.78
 3857,Xerox 1997,Dionis Lloyd,58496,-123.94,6.48,10.05,Quebec,Paper,0.37
 3858,Balt Split Level Computer Training Table,Dionis Lloyd,58628,-335.32,138.75,52.42,Quebec,Tables,0.74
-3859,Rush Hierlooms Collection 1" Thick Stackable Bookcases,Arthur Gainer,58854,583.15,170.98,35.89,Quebec,Bookcases,0.66
+3859,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",Arthur Gainer,58854,583.15,170.98,35.89,Quebec,Bookcases,0.66
 3860,1726 Digital Answering Machine,Arthur Gainer,58854,-52.24,20.99,4.81,Quebec,Telephones and Communication,0.58
 3861,Sharp AL-1530CS Digital Copier,John Stevenson,58917,6279.18,499.99,24.49,Quebec,Copiers and Fax,0.36
 3862,Panasonic KP-310 Heavy-Duty Electric Pencil Sharpener,John Stevenson,58917,-25.96,21.98,2.87,Quebec,Pens & Art Supplies,0.55
@@ -3895,8 +3895,8 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3893,"Global Leather Task Chair, Black",Herbert Flentye,3591,-311.54,89.99,42,Ontario,Chairs & Chairmats,0.66
 3894,"Snap-A-Way® Black Print Carbonless Ruled Speed Letter, Triplicate",Jas O'Carroll,4006,624.84,37.94,5.08,Ontario,Paper,0.38
 3895,Avery 491,Sandra Flanagan,4193,14.42,4.13,0.99,Ontario,Labels,0.39
-3896,Executive Impressions 14" Two-Color Numerals Wall Clock,Sandra Flanagan,4193,64.25,22.72,8.99,Ontario,Office Furnishings,0.44
-3897,Iceberg OfficeWorks 42" Round Tables,Sandra Flanagan,4387,-388.52,150.98,39.25,Ontario,Tables,0.75
+3896,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Sandra Flanagan,4193,64.25,22.72,8.99,Ontario,Office Furnishings,0.44
+3897,"Iceberg OfficeWorks 42"" Round Tables",Sandra Flanagan,4387,-388.52,150.98,39.25,Ontario,Tables,0.75
 3898,Bevis Round Conference Table Top & Single Column Base,Sandra Flanagan,4512,-353.66,146.34,43.75,Ontario,Tables,0.64
 3899,"Bevis Round Conference Table Top, X-Base",Liz Willingham,4773,-433.29,179.29,29.21,Ontario,Tables,0.76
 3900,Xerox 227,Sally Hughsby,4839,-120.59,6.48,8.73,Ontario,Paper,0.37
@@ -3905,7 +3905,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3903,i470,Bill Overfelt,6754,191,205.99,5.26,Ontario,Telephones and Communication,0.56
 3904,"Maxell Pro 80 Minute CD-R, 10/Pack",Sally Hughsby,7619,-24.48,17.48,1.99,Ontario,Computer Peripherals,0.45
 3905,Ibico EB-19 Dual Function Manual Binding System,Kean Nguyen,7744,1416.7,172.99,19.99,Ontario,Binders and Binder Accessories,0.39
-3906,#10- 4 1/8" x 9 1/2" Security-Tint Envelopes,Kean Nguyen,7744,-3.44,7.64,1.39,Ontario,Envelopes,0.36
+3906,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Kean Nguyen,7744,-3.44,7.64,1.39,Ontario,Envelopes,0.36
 3907,Xerox 1977,Stuart Calhoun,8006,-23.34,6.68,5.2,Ontario,Paper,0.37
 3908,"Quartet Alpha® White Chalk, 12/Pack",John Grady,8224,9.92,2.21,1,Ontario,Pens & Art Supplies,0.38
 3909,Accessory37,Jas O'Carroll,8323,-88.25,20.99,2.5,Ontario,Telephones and Communication,0.81
@@ -3924,7 +3924,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3922,"Imation 3.5"" IBM-Formatted Diskettes, 10/Pack",Janet Molinari,11173,-95.17,5.98,3.85,Ontario,Computer Peripherals,0.68
 3923,"Bevis Round Conference Table Top, X-Base",Jay Kimmel,11239,-433.29,179.29,29.21,Ontario,Tables,0.74
 3924,Ibico Hi-Tech Manual Binding System,Matt Connell,11396,4842.37,304.99,19.99,Ontario,Binders and Binder Accessories,0.4
-3925,Iceberg OfficeWorks 42" Round Tables,Tracy Poddar,11808,25.21,150.98,39.25,Ontario,Tables,0.75
+3925,"Iceberg OfficeWorks 42"" Round Tables",Tracy Poddar,11808,25.21,150.98,39.25,Ontario,Tables,0.75
 3926,"Fellowes Internet Keyboard, Platinum",Tracy Poddar,11874,-82.13,30.42,8.65,Ontario,Computer Peripherals,0.74
 3927,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Tracy Poddar,11874,179.37,39.98,9.83,Ontario,Envelopes,0.4
 3928,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",Jay Kimmel,12322,-398.11,92.23,39.61,Ontario,Office Furnishings,0.67
@@ -3977,7 +3977,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3975,Avery Hi-Liter Pen Style Six-Color Fluorescent Set,Alejandro Grove,20486,55.73,3.85,0.7,Ontario,Pens & Art Supplies,0.44
 3976,Xerox 1940,Arthur Prichep,20899,110.36,54.96,10.75,Ontario,Paper,0.36
 3977,"Global High-Back Leather Tilter, Burgundy",Vivek Grady,21089,-331.08,122.99,70.2,Ontario,Chairs & Chairmats,0.74
-3978,1.7 Cubic Foot Compact "Cube" Office Refrigerators,Lindsay Shagiari,21634,-314.61,208.16,68.02,Ontario,Appliances,0.58
+3978,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Lindsay Shagiari,21634,-314.61,208.16,68.02,Ontario,Appliances,0.58
 3979,Polycom ViewStation™ Adapter H323 Videoconferencing Unit,Lindsay Shagiari,21634,-4017.62,1938.02,13.99,Ontario,Office Machines,0.38
 3980,DPC 650 Piper,Arthur Prichep,21665,-407.26,115.99,2.5,Ontario,Telephones and Communication,0.58
 3981,ACCOHIDE® Binder by Acco,Xylona Price,21729,-92.85,4.13,5.34,Ontario,Binders and Binder Accessories,0.38
@@ -4018,7 +4018,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4016,Avery Self-Adhesive Photo Pockets for Polaroid Photos,Odella Nelson,27811,-73.62,6.81,5.48,Ontario,Binders and Binder Accessories,0.37
 4017,Prismacolor Color Pencil Set,Arthur Prichep,28064,265.1,19.84,4.1,Ontario,Pens & Art Supplies,0.44
 4018,"Quartet Omega® Colored Chalk, 12/Pack",Arthur Prichep,28064,-2.31,5.84,1,Ontario,Pens & Art Supplies,0.38
-4019,Carina 42"Hx23 3/4"W Media Storage Unit,Guy Phonely,28225,-330.14,80.98,35,Ontario,Storage & Organization,0.83
+4019,"Carina 42""Hx23 3/4""W Media Storage Unit",Guy Phonely,28225,-330.14,80.98,35,Ontario,Storage & Organization,0.83
 4020,i2000,Denny Blanton,28258,-604.41,125.99,2.5,Ontario,Telephones and Communication,0.6
 4021,US Robotics 56K V.92 External Faxmodem,Denny Blanton,28258,293.66,99.99,19.99,Ontario,Computer Peripherals,0.52
 4022,Avery 511,Steve Nguyen,28321,24.71,3.08,0.99,Ontario,Labels,0.37
@@ -4030,7 +4030,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4028,"Master Giant Foot® Doorstop, Safety Yellow",Jas O'Carroll,29383,16.97,7.59,4,Ontario,Office Furnishings,0.42
 4029,Global Adaptabilities™ Conference Tables,Sally Hughsby,29507,-679.04,280.98,35.67,Ontario,Tables,0.66
 4030,Accessory35,Sally Hughsby,29507,416.99,35.99,1.1,Ontario,Telephones and Communication,0.55
-4031,Iceberg OfficeWorks 42" Round Tables,Sally Hughsby,29572,126.28,150.98,16.01,Ontario,Tables,0.7
+4031,"Iceberg OfficeWorks 42"" Round Tables",Sally Hughsby,29572,126.28,150.98,16.01,Ontario,Tables,0.7
 4032,"Dixon Ticonderoga® Erasable Colored Pencil Set, 12-Color",Odella Nelson,29889,23.87,5.98,1.67,Ontario,Pens & Art Supplies,0.51
 4033,DAX Wood Document Frame.,Matt Connell,29894,21.08,13.73,6.85,Ontario,Office Furnishings,0.54
 4034,Xerox 1898,Matt Connell,29894,-162.54,6.68,6.92,Ontario,Paper,0.37
@@ -4044,7 +4044,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4042,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",Xylona Price,30915,-17.75,2.98,2.03,Ontario,Pens & Art Supplies,0.57
 4043,M70,Xylona Price,30915,561.13,125.99,8.99,Ontario,Telephones and Communication,0.59
 4044,Ibico EB-19 Dual Function Manual Binding System,Sean O'Donnell,31072,4.56,172.99,19.99,Ontario,Binders and Binder Accessories,0.39
-4045,Howard Miller 13" Diameter Goldtone Round Wall Clock,Arthur Prichep,31073,843.12,46.94,6.77,Ontario,Office Furnishings,0.44
+4045,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",Arthur Prichep,31073,843.12,46.94,6.77,Ontario,Office Furnishings,0.44
 4046,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Arthur Prichep,31073,-618.95,167.27,35,Ontario,Storage & Organization,0.85
 4047,Hon iLevel™ Computer Training Table,Arthur Prichep,31138,-1756.44,31.76,45.51,Ontario,Tables,0.65
 4048,Bell Sonecor JB700 Caller ID,Sally Hughsby,31173,-84.14,7.99,5.03,Ontario,Telephones and Communication,0.6
@@ -4062,11 +4062,11 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4060,Eldon Expressions Mahogany Wood Desk Collection,Vivek Grady,33510,-96.95,6.24,5.22,Ontario,Office Furnishings,0.6
 4061,Xerox 1893,Vivek Grady,33510,13.21,40.99,17.48,Ontario,Paper,0.36
 4062,Advantus Panel Wall Certificate Holder - 8.5x11,John Lucas,33541,16.14,12.2,6.02,Ontario,Office Furnishings,0.43
-4063,Iceberg OfficeWorks 42" Round Tables,Vivek Grady,33573,111.05,150.98,16.01,Ontario,Tables,0.7
+4063,"Iceberg OfficeWorks 42"" Round Tables",Vivek Grady,33573,111.05,150.98,16.01,Ontario,Tables,0.7
 4064,Okidata ML520 Series Dot Matrix Printers,Scott Cohen,34371,1886.66,510.14,14.7,Ontario,Office Machines,0.56
 4065,Fellowes Command Center 5-outlet power strip,Karen Daniels,34530,493.03,67.84,0.99,Ontario,Appliances,0.58
 4066,"Maxell Pro 80 Minute CD-R, 10/Pack",Karen Daniels,34530,168.04,17.48,1.99,Ontario,Computer Peripherals,0.45
-4067,Iceberg OfficeWorks 42" Round Tables,Karen Daniels,34530,-364.87,150.98,16.01,Ontario,Tables,0.7
+4067,"Iceberg OfficeWorks 42"" Round Tables",Karen Daniels,34530,-364.87,150.98,16.01,Ontario,Tables,0.7
 4068,Maxell 4.7GB DVD-R,John Lucas,34562,57.82,28.38,1.99,Ontario,Computer Peripherals,0.51
 4069,Computer Printout Paper with Letter-Trim Perforations,John Lucas,34562,22.77,18.97,9.03,Ontario,Paper,0.37
 4070,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Liz Willingham,35430,608.74,110.98,13.99,Ontario,Office Furnishings,0.69
@@ -4084,7 +4084,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4082,KI Conference Tables,Sam Zeldin,36705,54.23,70.89,89.3,Ontario,Tables,0.72
 4083,Xerox 1959,Harold Ryan,36833,-73.33,6.68,7.3,Ontario,Paper,0.37
 4084,Avery 494,Xylona Price,36896,10.58,2.61,0.5,Ontario,Labels,0.39
-4085,Executive Impressions 13" Chairman Wall Clock,Xylona Price,36896,69.31,25.38,8.99,Ontario,Office Furnishings,0.5
+4085,"Executive Impressions 13"" Chairman Wall Clock",Xylona Price,36896,69.31,25.38,8.99,Ontario,Office Furnishings,0.5
 4086,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Xylona Price,36896,-546.98,167.27,35,Ontario,Storage & Organization,0.85
 4087,Anderson Hickey Conga Table Tops & Accessories,Lena Radford,37123,11.65,15.23,27.75,Ontario,Tables,0.76
 4088,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,Jas O'Carroll,37572,2.42,5.34,2.99,Ontario,Binders and Binder Accessories,0.38
@@ -4096,7 +4096,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4094,Hon Olson Stacker Stools,Todd Sumrall,38274,0.98,140.81,24.49,Ontario,Chairs & Chairmats,0.57
 4095,"Trav-L-File Heavy-Duty Shuttle II, Black",Todd Sumrall,38274,23.7,43.57,16.36,Ontario,Storage & Organization,0.55
 4096,Accessory2,Todd Sumrall,38274,-33.79,55.99,1.25,Ontario,Telephones and Communication,0.55
-4097,Adams "While You Were Out" Message Pads,Sean O'Donnell,38370,43.05,3.14,1.14,Ontario,Paper,0.4
+4097,"Adams ""While You Were Out"" Message Pads",Sean O'Donnell,38370,43.05,3.14,1.14,Ontario,Paper,0.4
 4098,"Master Giant Foot® Doorstop, Safety Yellow",Laura Armstrong,38405,14.77,7.59,4,Ontario,Office Furnishings,0.42
 4099,Xerox 1983,Jane Waco,38466,-43.26,5.98,5.46,Ontario,Paper,0.36
 4100,Avery 498,Jane Waco,38466,46.46,2.89,0.5,Ontario,Labels,0.38
@@ -4118,7 +4118,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4116,"6"" Cubicle Wall Clock, Black",Alejandro Grove,39904,-144.56,8.09,7.96,Ontario,Office Furnishings,0.49
 4117,5165,Chris Selesnick,39909,2547.3,175.99,4.99,Ontario,Telephones and Communication,0.59
 4118,Xerox Blank Computer Paper,Sandra Flanagan,40100,333.18,19.98,5.77,Ontario,Paper,0.38
-4119,Howard Miller 16" Diameter Gallery Wall Clock,Sally Hughsby,40224,404.29,63.94,14.48,Ontario,Office Furnishings,0.46
+4119,"Howard Miller 16"" Diameter Gallery Wall Clock",Sally Hughsby,40224,404.29,63.94,14.48,Ontario,Office Furnishings,0.46
 4120,StarTAC 7760,Jim Kriz,40422,517.82,65.99,3.99,Ontario,Telephones and Communication,0.59
 4121,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,Scott Cohen,40802,26.05,115.99,56.14,Ontario,Office Machines,0.4
 4122,Hewlett-Packard 2600DN Business Color Inkjet Printer,Guy Phonely,40839,-100.47,119.99,56.14,Ontario,Office Machines,0.39
@@ -4137,7 +4137,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4135,Boston 19500 Mighty Mite Electric Pencil Sharpener,Katherine Nockton,41571,-2.66,20.15,8.99,Ontario,Pens & Art Supplies,0.58
 4136,GBC DocuBind TL300 Electric Binding System,Alejandro Grove,41728,9527.47,896.99,19.99,Ontario,Binders and Binder Accessories,0.38
 4137,Hon Deluxe Fabric Upholstered Stacking Chairs,Alejandro Grove,41728,41.53,243.98,62.94,Ontario,Chairs & Chairmats,0.57
-4138,Chromcraft 48" x 96" Racetrack Double Pedestal Table,Katherine Nockton,41764,467.12,320.64,29.2,Ontario,Tables,0.66
+4138,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Katherine Nockton,41764,467.12,320.64,29.2,Ontario,Tables,0.66
 4139,"TOPS Voice Message Log Book, Flash Format",Kean Nguyen,42082,-3.95,4.76,3.01,Ontario,Paper,0.36
 4140,Logitech Internet Navigator Keyboard,Harold Ryan,42279,-55.78,30.98,6.5,Ontario,Computer Peripherals,0.79
 4141,"Eldon Imàge® Series Desk Accessories, Clear",Sam Zeldin,42308,-56.56,4.86,7.1,Ontario,Office Furnishings,0.42
@@ -4151,11 +4151,11 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4149,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Robert Marley,45542,-50.96,7.64,5.83,Ontario,Paper,0.36
 4150,Bevis 36 x 72 Conference Tables,Robert Marley,45542,-300.85,124.49,51.94,Ontario,Tables,0.63
 4151,Ibico EB-19 Dual Function Manual Binding System,Jay Kimmel,45698,2307.57,172.99,19.99,Ontario,Binders and Binder Accessories,0.39
-4152,Black Print Carbonless 8 1/2" x 8 1/4" Rapid Memo Book,Jay Kimmel,45698,-5.68,7.28,4.23,Ontario,Paper,0.39
+4152,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",Jay Kimmel,45698,-5.68,7.28,4.23,Ontario,Paper,0.39
 4153,EcoTones® Memo Sheets,Laura Armstrong,45987,37.25,4,1.3,Ontario,Paper,0.37
-4154,Howard Miller 16" Diameter Gallery Wall Clock,Bill Overfelt,46052,878.21,63.94,14.48,Ontario,Office Furnishings,0.46
-4155,Seth Thomas 13 1/2" Wall Clock,Bill Overfelt,46052,194.15,17.78,5.03,Ontario,Office Furnishings,0.54
-4156,Bevis Round Bullnose 29" High Table Top,Herbert Flentye,46374,-627.64,259.71,66.67,Ontario,Tables,0.65
+4154,"Howard Miller 16"" Diameter Gallery Wall Clock",Bill Overfelt,46052,878.21,63.94,14.48,Ontario,Office Furnishings,0.46
+4155,"Seth Thomas 13 1/2"" Wall Clock",Bill Overfelt,46052,194.15,17.78,5.03,Ontario,Office Furnishings,0.54
+4156,"Bevis Round Bullnose 29"" High Table Top",Herbert Flentye,46374,-627.64,259.71,66.67,Ontario,Tables,0.65
 4157,"Deflect-o SuperTray™ Unbreakable Stackable Tray, Letter, Black",Ryan Akin,46402,322.88,29.18,8.55,Ontario,Office Furnishings,0.42
 4158,"Panasonic All Digital Answering System with Caller ID*, KX-TM150B",Ryan Akin,46402,166.37,66.99,13.99,Ontario,Telephones and Communication,0.6
 4159,StarTAC 7797,Ryan Akin,46402,52.93,115.99,2.5,Ontario,Telephones and Communication,0.55
@@ -4165,7 +4165,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4163,Xerox 207,Vivek Grady,46468,-8.89,6.48,5.4,Ontario,Paper,0.37
 4164,Boston 19500 Mighty Mite Electric Pencil Sharpener,Jane Waco,46497,-30.07,20.15,8.99,Ontario,Pens & Art Supplies,0.58
 4165,GBC Linen Binding Covers,Xylona Price,47303,226.53,30.98,11.63,Ontario,Binders and Binder Accessories,0.37
-4166,#10- 4 1/8" x 9 1/2" Security-Tint Envelopes,Xylona Price,47303,12.64,7.64,1.39,Ontario,Envelopes,0.36
+4166,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Xylona Price,47303,12.64,7.64,1.39,Ontario,Envelopes,0.36
 4167,Xerox 210,Xylona Price,47303,-143.58,6.48,7.37,Ontario,Paper,0.37
 4168,"Fellowes Internet Keyboard, Platinum",Bill Overfelt,47492,-157.51,30.42,8.65,Ontario,Computer Peripherals,0.74
 4169,Ames Color-File® Green Diamond Border X-ray Mailers,Steve Nguyen,47682,1620.23,83.98,5.01,Ontario,Envelopes,0.38
@@ -4205,7 +4205,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4203,Advantus Push Pins,Cathy Prescott,52611,-5.14,2.18,1.38,Ontario,Rubber Bands,0.44
 4204,Logitech Cordless Access Keyboard,Vivek Grady,52805,60.7,29.99,5.5,Ontario,Computer Peripherals,0.51
 4205,"Companion Letter/Legal File, Black",Todd Sumrall,52833,-33.09,37.76,12.9,Ontario,Storage & Organization,0.57
-4206,#10- 4 1/8" x 9 1/2" Recycled Envelopes,Sarah Foster,52930,44.12,8.74,1.39,Ontario,Envelopes,0.38
+4206,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Sarah Foster,52930,44.12,8.74,1.39,Ontario,Envelopes,0.38
 4207,Xerox 1924,Sarah Foster,52930,-183.05,5.78,8.09,Ontario,Paper,0.36
 4208,Accessory24,Sarah Foster,52930,140.81,55.99,3.3,Ontario,Telephones and Communication,0.59
 4209,Accessory32,Sarah Foster,52930,972.9,55.99,1.25,Ontario,Telephones and Communication,0.35
@@ -4236,7 +4236,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4234,"Sanford EarthWrite® Recycled Pencils, Medium Soft, #2",Lena Radford,55398,2.38,2.1,0.7,Ontario,Pens & Art Supplies,0.57
 4235,Staples Standard Envelopes,John Castell,55553,52.61,5.68,1.39,Ontario,Envelopes,0.38
 4236,Global Troy™ Executive Leather Low-Back Tilter,John Lucas,55747,4801.82,500.98,26,Ontario,Chairs & Chairmats,0.6
-4237,Chromcraft Bull-Nose Wood 48" x 96" Rectangular Conference Tables,John Lucas,55747,-1331.55,550.98,64.59,Ontario,Tables,0.66
+4237,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",John Lucas,55747,-1331.55,550.98,64.59,Ontario,Tables,0.66
 4238,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,Katherine Nockton,55779,376.21,160.98,30,Ontario,Chairs & Chairmats,0.62
 4239,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",John Lucas,56418,226.76,34.76,8.22,Ontario,Storage & Organization,0.57
 4240,Southworth 25% Cotton Antique Laid Paper & Envelopes,Karen Daniels,56580,-17.03,8.34,4.82,Ontario,Paper,0.4
@@ -4331,7 +4331,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4329,Acme® Elite Stainless Steel Scissors,Art Foster,18595,0.9,8.34,2.64,Ontario,"Scissors, Rulers and Trimmers",0.59
 4330,Xerox 1935,Odella Nelson,19205,479.62,26.38,5.86,Ontario,Paper,0.39
 4331,"Avery Hi-Liter GlideStik Fluorescent Highlighter, Yellow Ink",Odella Nelson,19205,2.36,3.26,1.86,Ontario,Pens & Art Supplies,0.41
-4332,Executive Impressions 14" Contract Wall Clock with Quartz Movement,Clytie Kelty,19494,195.71,22.23,8.99,Ontario,Office Furnishings,0.41
+4332,"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",Clytie Kelty,19494,195.71,22.23,8.99,Ontario,Office Furnishings,0.41
 4333,Rogers Handheld Barrel Pencil Sharpener,Clytie Kelty,19494,-6.79,2.74,3.5,Ontario,Pens & Art Supplies,0.58
 4334,"Telephone Message Books with Fax/Mobile Section, 4 1/4"" x 6""",Jim Sink,19523,-10,3.6,2.2,Ontario,Paper,0.39
 4335,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",Steven Roelle,20482,-1143.15,120.98,60.19,Ontario,Bookcases,0.71
@@ -4346,7 +4346,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4344,"Perma STOR-ALL™ Hanging File Box, 13 1/8""W x 12 1/4""D x 10 1/2""H",Fred Wasserman,21636,-24.44,5.98,4.69,Ontario,Storage & Organization,0.68
 4345,Belkin MediaBoard 104- Keyboard,Jessica Myrick,21795,-77.36,27.48,4,Ontario,Computer Peripherals,0.75
 4346,Computer Printout Paper with Letter-Trim Perforations,Jessica Myrick,21795,4.54,18.97,9.03,Ontario,Paper,0.37
-4347,Staples 10" Round Wall Clock,Kalyca Meade,21859,13.31,9.74,5.71,Ontario,Office Furnishings,0.41
+4347,"Staples 10"" Round Wall Clock",Kalyca Meade,21859,13.31,9.74,5.71,Ontario,Office Furnishings,0.41
 4348,Eldon® 500 Class™ Desk Accessories,Lena Creighton,21989,30.8,12.07,6.2,Ontario,Office Furnishings,0.52
 4349,i1000plus,Lena Creighton,21989,1077.13,125.99,4.2,Ontario,Telephones and Communication,0.57
 4350,GBC Standard Therm-A-Bind Covers,Beth Thompson,22151,9.82,24.92,12.98,Ontario,Binders and Binder Accessories,0.39
@@ -4369,20 +4369,20 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4367,Heavy-Duty E-Z-D® Binders,Lena Creighton,27106,-4.7,10.91,2.99,Ontario,Binders and Binder Accessories,0.38
 4368,Laser & Ink Jet Business Envelopes,Lena Creighton,27106,232.58,10.67,1.39,Ontario,Envelopes,0.39
 4369,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",Lena Creighton,27106,-570.18,130.98,30,Ontario,Chairs & Chairmats,0.78
-4370,Executive Impressions 14" Contract Wall Clock,Lena Creighton,27106,297.11,22.23,3.63,Ontario,Office Furnishings,0.52
+4370,"Executive Impressions 14"" Contract Wall Clock",Lena Creighton,27106,297.11,22.23,3.63,Ontario,Office Furnishings,0.52
 4371,Sanford Liquid Accent Highlighters,Lena Creighton,27106,3.77,6.68,1.5,Ontario,Pens & Art Supplies,0.48
-4372,Executive Impressions 8-1/2" Career Panel/Partition Cubicle Clock,Rob Haberlin,27527,1.33,10.4,5.4,Ontario,Office Furnishings,0.51
+4372,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",Rob Haberlin,27527,1.33,10.4,5.4,Ontario,Office Furnishings,0.51
 4373,Sharp AL-1530CS Digital Copier,Jenna Caffey,27746,-1572.64,499.99,24.49,Ontario,Copiers and Fax,0.36
 4374,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Odella Nelson,27811,-39.64,15.99,13.18,Ontario,Binders and Binder Accessories,0.37
 4375,SAFCO Optional Arm Kit for Workspace® Cribbage Stacking Chair,Art Foster,27974,127.17,26.64,5.3,Ontario,Chairs & Chairmats,
 4376,Eldon® 500 Class™ Desk Accessories,Art Foster,27974,-6.7,12.07,6.2,Ontario,Office Furnishings,0.52
 4377,"Perma STOR-ALL™ Hanging File Box, 13 1/8""W x 12 1/4""D x 10 1/2""H",Jessica Myrick,28774,-111.8,5.98,4.69,Ontario,Storage & Organization,0.68
 4378,Xerox 1907,Ken Brennan,29607,21.05,12.28,5.09,Ontario,Paper,0.38
-4379,Iceberg OfficeWorks 42" Round Tables,Ken Brennan,29730,-364.87,150.98,39.25,Ontario,Tables,0.75
+4379,"Iceberg OfficeWorks 42"" Round Tables",Ken Brennan,29730,-364.87,150.98,39.25,Ontario,Tables,0.75
 4380,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,Joe Kamberova,30144,-528.65,218.75,69.64,Ontario,Tables,0.77
 4381,Okidata ML320 Series Turbo Dot Matrix Printers,Rob Haberlin,31266,1197.05,399.98,12.06,Ontario,Office Machines,0.56
 4382,Acco D-Ring Binder w/DublLock®,Lena Creighton,31456,64.14,21.38,2.99,Ontario,Binders and Binder Accessories,0.36
-4383,Executive Impressions 14" Contract Wall Clock,Max Jones,31522,134.21,22.23,3.63,Ontario,Office Furnishings,0.52
+4383,"Executive Impressions 14"" Contract Wall Clock",Max Jones,31522,134.21,22.23,3.63,Ontario,Office Furnishings,0.52
 4384,"Global Stack Chair without Arms, Black",Max Jones,31522,-226.41,25.98,14.36,Ontario,Chairs & Chairmats,0.6
 4385,"Global Leather & Oak Executive Chair, Burgundy",Don Weiss,33319,-505.76,150.89,60.2,Ontario,Chairs & Chairmats,0.77
 4386,Lexmark Z55se Color Inkjet Printer,Darrin Martin,33635,-173.1,90.97,28,Ontario,Office Machines,0.38
@@ -4399,7 +4399,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4397,Southworth 25% Cotton Premium Laser Paper and Envelopes,Katrina Willman,36133,-7.84,19.98,8.68,Ontario,Paper,0.37
 4398,Xerox 21,Steven Roelle,37891,-65.54,6.48,6.6,Ontario,Paper,0.37
 4399,"Brites Rubber Bands, 1 1/2 oz. Box",Steven Roelle,37891,-9.09,1.98,0.7,Ontario,Rubber Bands,0.83
-4400,Bevis Round Bullnose 29" High Table Top,Steven Roelle,37891,-627.64,259.71,66.67,Ontario,Tables,0.61
+4400,"Bevis Round Bullnose 29"" High Table Top",Steven Roelle,37891,-627.64,259.71,66.67,Ontario,Tables,0.61
 4401,VTech VT20-2481 2.4GHz Two-Line Phone System w/Answering Machine,Steven Roelle,37891,1184.68,179.99,13.99,Ontario,Telephones and Communication,0.57
 4402,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,Rob Haberlin,38021,834.96,279.81,23.19,Ontario,Appliances,0.59
 4403,Avery 508,Rob Haberlin,38021,81.77,4.91,0.5,Ontario,Labels,0.36
@@ -4465,7 +4465,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4463,Laminate Occasional Tables,Amy Cox,54243,-634.73,154.13,69,Ontario,Tables,0.68
 4464,GBC DocuBind 200 Manual Binding Machine,Maureen Fritzler,54407,3857.57,420.98,19.99,Ontario,Binders and Binder Accessories,0.35
 4465,Anderson Hickey Conga Table Tops & Accessories,Benjamin Patterson,55394,11.65,15.23,27.75,Ontario,Tables,0.76
-4466,Iceberg OfficeWorks 42" Round Tables,Katrina Willman,56003,-364.87,150.98,16.01,Ontario,Tables,0.7
+4466,"Iceberg OfficeWorks 42"" Round Tables",Katrina Willman,56003,-364.87,150.98,16.01,Ontario,Tables,0.7
 4467,Boston KS Multi-Size Manual Pencil Sharpener,Hallie Redmond,56128,-49.66,22.99,8.99,Ontario,Pens & Art Supplies,0.57
 4468,Hon 61000 Series Interactive Training Tables,Hallie Redmond,56128,33.99,44.43,46.59,Ontario,Tables,0.67
 4469,Hoover Portapower™ Portable Vacuum,Steven Roelle,56384,-2172.14,4.48,49,Ontario,Appliances,0.6
@@ -4504,15 +4504,15 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4502,Okidata ML395C Color Dot Matrix Printer,Noel Staavos,1444,1759.34,1360.14,14.7,Ontario,Office Machines,0.59
 4503,Xerox 196,Paul Lucas,4965,-186.31,5.78,7.96,Ontario,Paper,0.36
 4504,Eldon Jumbo ProFile™ Portable File Boxes Graphite/Black,Raymond Fair,5639,-71.95,15.31,8.78,Ontario,Storage & Organization,0.57
-4505,Linden® 12" Wall Clock With Oak Frame,Debra Catini,7297,-0.74,33.98,19.99,Ontario,Office Furnishings,0.55
+4505,"Linden® 12"" Wall Clock With Oak Frame",Debra Catini,7297,-0.74,33.98,19.99,Ontario,Office Furnishings,0.55
 4506,Canon P1-DHIII Palm Printing Calculator,Fred McMath,8513,-43.03,17.98,8.51,Ontario,Office Machines,0.4
 4507,"Global High-Back Leather Tilter, Burgundy",Astrea Jones,10245,-896.94,122.99,70.2,Ontario,Chairs & Chairmats,0.74
 4508,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",Fred McMath,11011,1383.32,240.98,60.2,Ontario,Bookcases,0.56
 4509,Anderson Hickey Conga Table Tops & Accessories,Tracy Poddar,12320,11.65,15.23,27.75,Ontario,Tables,0.76
-4510,Seth Thomas 14" Putty-Colored Wall Clock,Troy Staebel,12326,-0.37,29.34,57.87,Ontario,Office Furnishings,0.54
+4510,"Seth Thomas 14"" Putty-Colored Wall Clock",Troy Staebel,12326,-0.37,29.34,57.87,Ontario,Office Furnishings,0.54
 4511,Logitech Cordless Elite Duo,Raymond Fair,13056,1413.52,100.98,7.18,Ontario,Computer Peripherals,0.4
 4512,Fellowes 17-key keypad for PS/2 interface,Alejandro Savely,13125,56.39,30.73,4,Ontario,Computer Peripherals,0.75
-4513,Elite 5" Scissors,Noel Staavos,17410,-203.68,8.45,7.77,Ontario,"Scissors, Rulers and Trimmers",0.55
+4513,"Elite 5"" Scissors",Noel Staavos,17410,-203.68,8.45,7.77,Ontario,"Scissors, Rulers and Trimmers",0.55
 4514,Staples Colored Interoffice Envelopes,Troy Staebel,17953,-6.72,30.98,19.51,Ontario,Envelopes,0.36
 4515,Hewlett-Packard 2600DN Business Color Inkjet Printer,Chris Cortes,20711,-101.66,119.99,56.14,Ontario,Office Machines,0.39
 4516,PC Concepts 116 Key Quantum 3000 Keyboard,Troy Staebel,21606,-90.3,32.98,5.5,Ontario,Computer Peripherals,0.75
@@ -4621,22 +4621,22 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4619,Wilson Jones Impact Binders,Patrick Jones,6720,-93.71,5.18,5.74,New Brunswick,Binders and Binder Accessories,0.36
 4620,O'Sullivan Living Dimensions 2-Shelf Bookcases,Patrick Jones,6720,-1393.69,120.98,58.64,New Brunswick,Bookcases,0.75
 4621,Avery 48,Patrick Jones,6720,17.63,6.3,0.5,New Brunswick,Labels,0.39
-4622,Executive Impressions 13" Chairman Wall Clock,Nathan Mautz,6785,80.32,25.38,8.99,New Brunswick,Office Furnishings,0.5
+4622,"Executive Impressions 13"" Chairman Wall Clock",Nathan Mautz,6785,80.32,25.38,8.99,New Brunswick,Office Furnishings,0.5
 4623,Accessory35,Karen Seio,8295,158.18,35.99,1.1,New Brunswick,Telephones and Communication,0.55
 4624,i2000,Karen Seio,8295,-295.43,125.99,2.5,New Brunswick,Telephones and Communication,0.6
 4625,Peel-Off® China Markers,Quincy Jones,8704,198.83,9.93,1.09,New Brunswick,Pens & Art Supplies,0.43
 4626,"Quartet Alpha® White Chalk, 12/Pack",Quincy Jones,8704,5.48,2.21,1,New Brunswick,Pens & Art Supplies,0.38
 4627,Canon MP41DH Printing Calculator,Ken Lonsdale,8834,2872.88,150.98,13.99,New Brunswick,Office Machines,0.38
 4628,"Wilson Jones Elliptical Ring 3 1/2"" Capacity Binders, 800 sheets",Lori Olson,8933,640.84,42.8,2.99,New Brunswick,Binders and Binder Accessories,0.36
-4629,Seth Thomas 12" Clock w/ Goldtone Case,Lori Olson,8933,154.99,22.98,7.58,New Brunswick,Office Furnishings,0.51
+4629,"Seth Thomas 12"" Clock w/ Goldtone Case",Lori Olson,8933,154.99,22.98,7.58,New Brunswick,Office Furnishings,0.51
 4630,Xerox 188,Ionia McGrath,9222,78.2,11.34,5.01,New Brunswick,Paper,0.36
 4631,Avery Reinforcements for Hole-Punch Pages,Patrick Gardner,10243,-44.08,1.98,4.77,New Brunswick,Binders and Binder Accessories,0.4
 4632,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",Karen Seio,10502,1523.46,243.98,43.32,New Brunswick,Chairs & Chairmats,0.55
-4633,Executive Impressions 13" Chairman Wall Clock,Karen Seio,10502,182.72,25.38,8.99,New Brunswick,Office Furnishings,0.5
+4633,"Executive Impressions 13"" Chairman Wall Clock",Karen Seio,10502,182.72,25.38,8.99,New Brunswick,Office Furnishings,0.5
 4634,"Eldon Regeneration Recycled Desk Accessories, Smoke",Quincy Jones,10886,-112.92,1.74,4.08,New Brunswick,Office Furnishings,0.53
 4635,Hewlett-Packard 2600DN Business Color Inkjet Printer,Quincy Jones,10886,432.98,119.99,56.14,New Brunswick,Office Machines,0.39
 4636,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",Ionia McGrath,11047,-528.09,68.81,60,New Brunswick,Appliances,0.41
-4637,Chromcraft Bull-Nose Wood 48" x 96" Rectangular Conference Tables,Ionia McGrath,11047,2271.68,550.98,64.59,New Brunswick,Tables,0.66
+4637,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Ionia McGrath,11047,2271.68,550.98,64.59,New Brunswick,Tables,0.66
 4638,Portable Personal File Box,Patrick Jones,12803,-21.15,12.21,4.81,New Brunswick,Storage & Organization,0.58
 4639,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,Nona Balk,13767,-381.04,218.75,69.64,New Brunswick,Tables,0.72
 4640,OIC Thumb-Tacks,Nathan Mautz,14117,-1.5,1.14,0.7,New Brunswick,Rubber Bands,0.38
@@ -4670,7 +4670,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4668,LX 788,Erin Mull,24098,836.15,155.99,8.99,New Brunswick,Telephones and Communication,0.58
 4669,6340,Karen Seio,24227,424.64,85.99,2.79,New Brunswick,Telephones and Communication,0.58
 4670,Microsoft Natural Multimedia Keyboard,Ionia McGrath,24614,-52.92,50.98,6.5,New Brunswick,Computer Peripherals,0.73
-4671,Bevis Round Bullnose 29" High Table Top,Erin Mull,25637,50.95,259.71,66.67,New Brunswick,Tables,0.61
+4671,"Bevis Round Bullnose 29"" High Table Top",Erin Mull,25637,50.95,259.71,66.67,New Brunswick,Tables,0.61
 4672,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",Justin Deggeller,26695,163.42,8.34,1.43,New Brunswick,Paper,0.35
 4673,Xerox 1904,Nathan Mautz,27078,-40.76,6.48,5.86,New Brunswick,Paper,0.36
 4674,"Dual Level, Single-Width Filing Carts",Karen Seio,29376,569.08,155.06,7.07,New Brunswick,Storage & Organization,0.59
@@ -4682,7 +4682,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4680,5190,Nona Balk,31718,168.46,65.99,7.69,New Brunswick,Telephones and Communication,0.59
 4681,StarTAC Analog,Nona Balk,31718,-115.3,65.99,8.99,New Brunswick,Telephones and Communication,0.6
 4682,Regeneration Desk Collection,Patrick Jones,32070,-185.34,1.76,4.86,New Brunswick,Office Furnishings,0.41
-4683,Linden® 12" Wall Clock With Oak Frame,Nathan Mautz,34661,-175.47,33.98,19.99,New Brunswick,Office Furnishings,0.55
+4683,"Linden® 12"" Wall Clock With Oak Frame",Nathan Mautz,34661,-175.47,33.98,19.99,New Brunswick,Office Furnishings,0.55
 4684,"Snap-A-Way® Black Print Carbonless Ruled Speed Letter, Triplicate",Patrick Jones,34754,235.51,37.94,5.08,New Brunswick,Paper,0.38
 4685,Xerox 1993,Erin Mull,35392,-50.2,6.48,9.68,New Brunswick,Paper,0.36
 4686,Magna Visual Magnetic Picture Hangers,Nathan Mautz,36103,-28.85,4.82,5.72,New Brunswick,Office Furnishings,0.47
@@ -4709,7 +4709,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4707,Boston 1730 StandUp Electric Pencil Sharpener,Justin Deggeller,52389,-57.16,21.38,8.99,New Brunswick,Pens & Art Supplies,0.59
 4708,Lexmark Z54se Color Inkjet Printer,Tony Sayre,52576,126.81,90.97,14,New Brunswick,Office Machines,0.36
 4709,3M Office Air Cleaner,Karen Seio,53605,105.69,25.98,5.37,New Brunswick,Appliances,0.5
-4710,Rush Hierlooms Collection 1" Thick Stackable Bookcases,Karen Seio,53605,886.35,170.98,35.89,New Brunswick,Bookcases,0.66
+4710,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",Karen Seio,53605,886.35,170.98,35.89,New Brunswick,Bookcases,0.66
 4711,Eldon Econocleat® Chair Mats for Low Pile Carpets,Karen Seio,53605,-73.1,41.47,34.2,New Brunswick,Office Furnishings,0.73
 4712,Motorola SB4200 Cable Modem,Nathan Mautz,53891,812.38,179.99,19.99,New Brunswick,Computer Peripherals,0.48
 4713,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",Nathan Mautz,53891,-237.6,92.23,39.61,New Brunswick,Office Furnishings,0.67
@@ -4734,7 +4734,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4732,Xerox 195,Joe Elijah,610,-29.21,6.68,5.41,Manitoba,Paper,0.37
 4733,Xerox 1928,Sheri Gordon,612,-166.29,5.28,6.26,Manitoba,Paper,0.4
 4734,6190,Sheri Gordon,612,881.68,65.99,2.5,Manitoba,Telephones and Communication,0.55
-4735,Executive Impressions 12" Wall Clock,Stefanie Holloman,1440,52.47,17.67,8.99,Manitoba,Office Furnishings,0.47
+4735,"Executive Impressions 12"" Wall Clock",Stefanie Holloman,1440,52.47,17.67,8.99,Manitoba,Office Furnishings,0.47
 4736,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",Ken Black,3749,140.15,12.97,1.49,Manitoba,Binders and Binder Accessories,0.35
 4737,"Memorex 4.7GB DVD+RW, 3/Pack",Joe Elijah,4070,237.75,28.48,1.99,Manitoba,Computer Peripherals,0.4
 4738,PC Concepts 116 Key Quantum 3000 Keyboard,Lindsay Williams,4774,-125.99,32.98,5.5,Manitoba,Computer Peripherals,0.75
@@ -4752,9 +4752,9 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4750,SouthWestern Bell FA970 Digital Answering Machine with Time/Day Stamp,Keith Dawkins,11719,-56.05,28.99,8.59,Manitoba,Telephones and Communication,0.56
 4751,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,Marc Crier,11908,-556.18,280.98,57,Manitoba,Chairs & Chairmats,0.78
 4752,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",Scot Wooten,13765,180.88,36.55,13.89,Manitoba,Pens & Art Supplies,0.41
-4753,Executive Impressions 14" Contract Wall Clock,Keith Dawkins,14055,167.18,22.23,3.63,Manitoba,Office Furnishings,0.52
+4753,"Executive Impressions 14"" Contract Wall Clock",Keith Dawkins,14055,167.18,22.23,3.63,Manitoba,Office Furnishings,0.52
 4754,Gyration Ultra Professional Cordless Optical Suite,Deborah Brumfield,14342,3857.43,300.97,7.18,Manitoba,Computer Peripherals,0.48
-4755,Executive Impressions 13" Clairmont Wall Clock,Steve Chapman,14756,-25.38,19.23,6.15,Manitoba,Office Furnishings,0.44
+4755,"Executive Impressions 13"" Clairmont Wall Clock",Steve Chapman,14756,-25.38,19.23,6.15,Manitoba,Office Furnishings,0.44
 4756,Avery 493,Nicole Brennan,14785,39.69,4.91,0.5,Manitoba,Labels,0.36
 4757,"Boston Model 1800 Electric Pencil Sharpener, Gray",Nicole Brennan,14785,146.51,28.15,6.17,Manitoba,Pens & Art Supplies,0.55
 4758,Avery Poly Binder Pockets,John Lee,14855,-150.9,3.58,5.47,Manitoba,Binders and Binder Accessories,0.37
@@ -4769,9 +4769,9 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4767,Heavy-Duty E-Z-D® Binders,Denise Monton,20773,122.54,10.91,2.99,Manitoba,Binders and Binder Accessories,0.38
 4768,Hewlett Packard LaserJet 3310 Copier,Deborah Brumfield,20967,13340.26,599.99,24.49,Manitoba,Copiers and Fax,0.37
 4769,M3682,Deborah Brumfield,20967,-397.53,125.99,8.08,Manitoba,Telephones and Communication,0.57
-4770,Executive Impressions 13" Chairman Wall Clock,Keith Dawkins,21478,126.95,25.38,8.99,Manitoba,Office Furnishings,0.5
+4770,"Executive Impressions 13"" Chairman Wall Clock",Keith Dawkins,21478,126.95,25.38,8.99,Manitoba,Office Furnishings,0.5
 4771,Xerox 1937,Keith Dawkins,21478,728.49,48.04,5.79,Manitoba,Paper,0.37
-4772,Executive Impressions 13-1/2" Indoor/Outdoor Wall Clock,Keith Dawkins,21633,69.63,18.7,8.99,Manitoba,Office Furnishings,0.47
+4772,"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",Keith Dawkins,21633,69.63,18.7,8.99,Manitoba,Office Furnishings,0.47
 4773,GBC Durable Plastic Covers,Marc Crier,21696,-51.91,19.35,12.79,Manitoba,Binders and Binder Accessories,0.39
 4774,"Memorex 4.7GB DVD+RW, 3/Pack",Denise Monton,22851,218.89,28.48,1.99,Manitoba,Computer Peripherals,0.4
 4775,Eldon® Wave Desk Accessories,Denise Monton,22851,-48.55,2.08,5.33,Manitoba,Office Furnishings,0.43
@@ -4854,7 +4854,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4852,#6 3/4 Gummed Flap White Envelopes,Ed Braxton,59969,205.7,9.9,1.39,Manitoba,Envelopes,0.37
 4853,Hanging Personal Folder File,Ed Braxton,59969,-87.11,15.7,11.25,Manitoba,Storage & Organization,0.6
 4854,i270,Valerie Takahito,166,-126.09,65.99,8.99,Manitoba,Telephones and Communication,0.55
-4855,Acme® 8" Straight Scissors,Penelope Sewall,197,33.22,12.98,3.14,Manitoba,"Scissors, Rulers and Trimmers",0.6
+4855,"Acme® 8"" Straight Scissors",Penelope Sewall,197,33.22,12.98,3.14,Manitoba,"Scissors, Rulers and Trimmers",0.6
 4856,Hoover WindTunnel™ Plus Canister Vacuum,Sean Braxton,231,-490.84,363.25,19.99,Manitoba,Appliances,0.57
 4857,Belkin 6 Outlet Metallic Surge Strip,Valerie Dominguez,487,-18.96,10.89,4.5,Manitoba,Appliances,0.59
 4858,Avery Poly Binder Pockets,Susan MacKendrick,710,-150.37,3.58,5.47,Manitoba,Binders and Binder Accessories,0.37
@@ -4913,7 +4913,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4911,Newell 309,Eric Hoffmann,7457,124.24,11.55,2.36,Manitoba,Pens & Art Supplies,0.55
 4912,Xerox 1910,Jill Stevenson,7653,597.31,48.04,5.09,Manitoba,Paper,0.37
 4913,GBC Standard Plastic Binding Systems Combs,Evan Bailliet,7783,-14.62,8.85,5.6,Manitoba,Binders and Binder Accessories,0.36
-4914,Bevis Round Bullnose 29" High Table Top,Meg Tillman,7905,183.9,259.71,66.67,Manitoba,Tables,0.61
+4914,"Bevis Round Bullnose 29"" High Table Top",Meg Tillman,7905,183.9,259.71,66.67,Manitoba,Tables,0.61
 4915,Hon Deluxe Fabric Upholstered Stacking Chairs,Gary McGarr,8064,1069.61,243.98,62.94,Manitoba,Chairs & Chairmats,0.57
 4916,"ACCOHIDE® 3-Ring Binder, Blue, 1""",Russell D'Ascenzo,8130,-47.23,4.13,5.04,Manitoba,Binders and Binder Accessories,0.38
 4917,Bell Sonecor JB700 Caller ID,Gary Hwang,8294,-90.84,7.99,5.03,Manitoba,Telephones and Communication,0.6
@@ -4938,7 +4938,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4936,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,Thais Sissman,9954,-381.16,280.98,57,Manitoba,Chairs & Chairmats,0.78
 4937,Xerox 1922,Thais Sissman,9954,-166.44,4.98,7.44,Manitoba,Paper,0.36
 4938,Fluorescent Highlighters by Dixon,Thais Sissman,9954,22.06,3.98,0.83,Manitoba,Pens & Art Supplies,0.51
-4939,Seth Thomas 8 1/2" Cubicle Clock,Sanjit Engle,10081,245,20.28,6.68,Manitoba,Office Furnishings,0.53
+4939,"Seth Thomas 8 1/2"" Cubicle Clock",Sanjit Engle,10081,245,20.28,6.68,Manitoba,Office Furnishings,0.53
 4940,Tyvek® Side-Opening Peel & Seel® Expanding Envelopes,Katherine Ducich,10272,-50.43,90.48,19.99,Manitoba,Envelopes,0.4
 4941,Xerox 1991,Katherine Ducich,10272,76.43,22.84,8.18,Manitoba,Paper,0.39
 4942,T18,Victor Price,10530,-411.65,110.99,2.5,Manitoba,Telephones and Communication,0.57
@@ -4971,7 +4971,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4969,Panasonic KP-350BK Electric Pencil Sharpener with Auto Stop,Tracy Collins,14500,289.02,34.58,8.99,Manitoba,Pens & Art Supplies,0.56
 4970,Logitech Access Keyboard,Valerie Dominguez,14534,226.09,15.98,4,Manitoba,Computer Peripherals,0.37
 4971,T60,Michael Moore,14884,-301.68,95.99,4.9,Manitoba,Telephones and Communication,0.56
-4972,Howard Miller 16" Diameter Gallery Wall Clock,Natalie Webber,15075,622.89,63.94,14.48,Manitoba,Office Furnishings,0.46
+4972,"Howard Miller 16"" Diameter Gallery Wall Clock",Natalie Webber,15075,622.89,63.94,14.48,Manitoba,Office Furnishings,0.46
 4973,"Imation 3.5, DISKETTE 44766 HGHLD3.52HD/FM, 10/Pack",Natalie Webber,15075,-56.3,5.02,5.14,Manitoba,Computer Peripherals,0.79
 4974,StarTAC ST7868,Toby Knight,15234,268.01,125.99,8.99,Manitoba,Telephones and Communication,0.55
 4975,M3682,Toby Knight,15234,-34.73,125.99,8.08,Manitoba,Telephones and Communication,0.57
@@ -4987,7 +4987,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 4985,Letter Size Cart,Roy Skaria,16321,1871.26,142.86,19.99,Manitoba,Storage & Organization,0.56
 4986,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",Ryan Crowe,16679,846.23,243.98,43.32,Manitoba,Chairs & Chairmats,0.55
 4987,Xerox 1916,Natalie Webber,16775,1244.81,48.94,5.86,Manitoba,Paper,0.35
-4988,Acco Recycled 2" Capacity Laser Printer Hanging Data Binders,Sue Ann Reed,16834,14.2,14.45,7.17,Manitoba,Binders and Binder Accessories,0.38
+4988,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Sue Ann Reed,16834,14.2,14.45,7.17,Manitoba,Binders and Binder Accessories,0.38
 4989,Global Enterprise™ Series Seating Low-Back Swivel/Tilt Chairs,Jill Stevenson,16837,-307.96,258.98,54.31,Manitoba,Chairs & Chairmats,0.55
 4990,StarTAC 7760,Penelope Sewall,16866,538.49,65.99,3.99,Manitoba,Telephones and Communication,0.59
 4991,Xerox 1927,Gary Hwang,17058,-62.37,4.28,6.72,Manitoba,Paper,0.4
@@ -5022,7 +5022,7 @@ SN,Description,NAme,amount,taxes,toal,id,remark1,remark2,remark3
 3137,Sanford 52201 APSCO Electric Pencil Sharpener,Valerie Mitchum,11650,146.24,40.97,8.99,Quebec,Pens & Art Supplies,0.59
 3138,"Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel",Dave Hallsten,12837,433.59,22.24,1.99,Quebec,Computer Peripherals,0.43
 3139,Durable Pressboard Binders,Vivek Gonzalez,13347,22.84,3.8,1.49,Quebec,Binders and Binder Accessories,0.38
-3140,Bevis Round Bullnose 29" High Table Top,Vivian Mathis,13381,-627.64,259.71,66.67,Quebec,Tables,0.65
+3140,"Bevis Round Bullnose 29"" High Table Top",Vivian Mathis,13381,-627.64,259.71,66.67,Quebec,Tables,0.65
 3141,"IBM Active Response Keyboard, Black",Bradley Nguyen,13634,104.51,39.98,7.12,Quebec,Computer Peripherals,0.67
 3142,Staples Brown Kraft Recycled Clasp Envelopes,Bradley Nguyen,13634,-55.61,5.58,5.3,Quebec,Envelopes,0.35
 3143,Safco Industrial Wire Shelving,Matt Collister,13729,-342.91,95.99,35,Quebec,Storage & Organization,
